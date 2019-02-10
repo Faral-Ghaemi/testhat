@@ -74,7 +74,7 @@ def startlisten(request):
 
 
 
-    return redirect('RAT:listen')
+    return redirect('RAT:msf/android/listen')
 
 def webcamsnap(request):
     username = request.user.username
