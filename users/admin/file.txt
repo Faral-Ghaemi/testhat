@@ -1,0 +1,26 @@
+root@kali:~/django# /root/django/pupy/pupy/pupysh.py
+2019-02-10 18:43:45,211| Datagram based stream is not available: KCP missing
+
+            _____                    _       _ _
+ ___ ___   |  _  |_ _ ___ _ _    ___| |_ ___| | |   ___ ___
+|___|___|  |   __| | | . | | |  |_ -|   | -_| | |  |___|___|
+           |__|  |___|  _|_  |  |___|_|_|___|_|_|
+                     |_| |___|
+
+                   v1.8 (Aug 2018)
+
+
+  Upstream: https://github.com/n1nj4sec/pupy
+
+  The usage of this software to access any system,
+  service, or network without the owner's consent is
+  expressly forbidden.
+
+  Please follow https://www.eccouncil.org/code-of-ethics/
+
+  Good luck!
+
+[*] IGDClient enabled
+[*] WebServer started (0.0.0.0:9000, webroot=/HgPUTc3Dem)
+[*] Listen: ssl: 443
+>>

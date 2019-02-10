@@ -1,0 +1,16 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+<h1>hacktool Home</h1>
+
+  <p>Welcome to <em>RAT</em>, hacktool </p>
+
+<h2>your account</h2>
+<div class="w3-half">
+  <a href="{% url 'RAT:msf/android/add' %}" class="w3-button w3-block w3-green w3-section" ><i>Create RAT</i></a>
+</div>
+<div class="w3-half">
+  <a href="{% url 'RAT:msf/android/listen' %}" class="w3-button w3-block w3-red w3-section" ><i>Listenning RAT</i></a>
+</div>
+
+{% endblock %}
