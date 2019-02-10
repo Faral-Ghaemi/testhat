@@ -43,7 +43,7 @@ def listen(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/'+str(username)
     dirr = '/root/django/users/'+ str(username)+'/'
-
+    d=os.system('mkdir /root/django/users/'+ str(username))
     commandd = "tmux new-session -s "+str(username)
     os.system('xterm -T "'+str(username)+'" -e '+str(commandd))
     file =os.system('tmux capture-pane -t '+str(username)+' -pS -1000000 > '+str(dirr)+'file.txt""\n"')
