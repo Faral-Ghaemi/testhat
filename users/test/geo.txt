@@ -1,3 +1,0 @@
-34.0778838
-49.71006839999999
-curl --header "Content-Type: application/json" --request POST --data '{"responseCode" : "200", "identifier" : "eiffeltower", "latitude" : "34.0778838", "longitude" : "49.71006839999999"}' http://www.gps-coordinates.net/api/eiffeltower
