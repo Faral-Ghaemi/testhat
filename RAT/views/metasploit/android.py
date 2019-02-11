@@ -79,10 +79,9 @@ def startlisten(request):
 
 def webcamsnap(request):
     username = request.user.username
-    dir = '/root/django/users/'+ str(username)+'/webcamsnap1.jpg'
+    dir = '/root/django/users/'+ str(username)+'/webcamsnap1.jpeg'
 
     os.system('tmux send-keys -t '+str(username)+' "webcam_snap -i 1 -o '+str(dir)+'""\n"')
-    os.system('tmux send-keys -t '+str(username)+' "webcam_snap -o '+str(dir)+'""\n"')
 
 ##down
     username = request.user.username
