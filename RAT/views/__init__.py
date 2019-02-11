@@ -53,6 +53,9 @@ def signup(request):
             raw_password = form.cleaned_data.get('password1')
             user = authenticate(username=username, password=raw_password)
             login(request, user)
+            credit = models.Credit.objects.get(user=request.user)
+            credit.Credits = 3
+            credit.save()
             return redirect('RAT:index')
     else:
         form = SignUpForm()
