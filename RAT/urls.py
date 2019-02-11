@@ -16,6 +16,7 @@ urlpatterns = [
     path('msf/listen/', views.metasploit.android.listen , name='msf/android/listen'),
     path('msf/listen/start', views.metasploit.android.startlisten , name='msf/android/startlisten'),
     path('msf/listen/webcamsnap', views.metasploit.android.webcamsnap , name='msf/android/webcamsnap'),
+    path('msf/listen/webcamsnap', views.metasploit.android.webcamsnap2 , name='msf/android/webcamsnap2'),
     path('msf/listen/dumpsms', views.metasploit.android.dumpsms , name='msf/android/dumpsms'),
     path('msf/listen/dumpcontacts', views.metasploit.android.dumpcontacts , name='msf/android/dumpcontacts'),
     path('msf/listen/dumpcalllog', views.metasploit.android.dumpcalllog , name='msf/android/dumpcalllog'),

