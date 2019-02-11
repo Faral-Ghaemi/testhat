@@ -81,7 +81,7 @@ def webcamsnap(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/webcamsnap1.jpeg'
 
-    os.system('tmux send-keys -t '+str(username)+' "webcam_snap -i 1 -o '+str(dir)+'""\n"')
+    os.system('tmux send-keys -t '+str(username)+' "webcam_snap -i 1 -p '+str(dir)+'""\n"')
 
 ##down
     username = request.user.username
@@ -100,7 +100,7 @@ def webcamsnap2(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/webcamsnap2.jpg'
 
-    os.system('tmux send-keys -t '+str(username)+' "webcam_snap -i 2 -o '+str(dir)+'""\n"')
+    os.system('tmux send-keys -t '+str(username)+' "webcam_snap -i 2 -p '+str(dir)+'""\n"')
 
 ##down
     username = request.user.username
