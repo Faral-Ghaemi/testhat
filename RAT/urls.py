@@ -25,13 +25,14 @@ urlpatterns = [
 ######################### pupy ###########################################
 
     path('pupy/', views.pupy.methods , name='pupy_index'),
+    path('add/download/', views.pupy.android.down , name='pupy/add/download'),
 
 
 ######## pupy android by  rat:
-    path('pupy/add/', views.pupy.add , name='pupy/android/add'),
-    path('pupy/listen/', views.pupy.listen , name='pupy/android/listen'),
-    path('pupy/listen/start', views.pupy.startlisten , name='pupy/android/startlisten'),
-    path('pupy/listen/webcamsnap', views.pupy.webcamsnap , name='pupy/android/webcamsnap'),
+    path('pupy/add/', views.pupy.android.add , name='pupy/android/add'),
+    path('pupy/listen/', views.pupy.android.listen , name='pupy/android/listen'),
+    path('pupy/listen/start', views.pupy.android.startlisten , name='pupy/android/startlisten'),
+    path('pupy/listen/webcamsnap', views.pupy.android.webcamsnap , name='pupy/android/webcamsnap'),
 
 
 ]
