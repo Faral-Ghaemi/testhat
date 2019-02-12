@@ -22,12 +22,16 @@ urlpatterns = [
     path('msf/listen/dumpcalllog', views.metasploit.android.dumpcalllog , name='msf/android/dumpcalllog'),
     path('msf/listen/hideappicon', views.metasploit.android.hideappicon , name='msf/android/hideappicon'),
     path('msf/listen/geolocate', views.metasploit.android.geolocate , name='msf/android/geolocate'),
+######################### pupy ###########################################
+
+    path('pupy/', views.pupy.methods , name='pupy_index'),
+
 
 ######## pupy android by  rat:
-    path('pupy/add/', views.pupy.add , name='pupy/add'),
-    path('pupy/listen/', views.pupy.listen , name='pupy/listen'),
-    path('pupy/listen/start', views.pupy.startlisten , name='pupy/startlisten'),
-    path('pupy/listen/webcamsnap', views.pupy.webcamsnap , name='pupy/webcamsnap'),
+    path('pupy/add/', views.pupy.add , name='pupy/android/add'),
+    path('pupy/listen/', views.pupy.listen , name='pupy/android/listen'),
+    path('pupy/listen/start', views.pupy.startlisten , name='pupy/android/startlisten'),
+    path('pupy/listen/webcamsnap', views.pupy.webcamsnap , name='pupy/android/webcamsnap'),
 
 
 ]
