@@ -25,7 +25,7 @@ urlpatterns = [
 ######################### pupy ###########################################
 
     path('pupy/', views.pupy.methods , name='pupy_index'),
-    path('add/download/', views.pupy.android.down , name='pupy/add/download'),
+    path('pupy/add/download/', views.pupy.android.down , name='pupy/add/download'),
 
 
 ######## pupy android by  rat:
