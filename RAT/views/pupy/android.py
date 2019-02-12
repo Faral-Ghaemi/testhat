@@ -68,8 +68,8 @@ def down(request):
 def listen(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/pupy/'
-    commandd = "tmux new-session -s "+str(username)
-    os.system('xterm -T "'+str(username)+'-pupy" -e '+str(commandd))
+    commandd = "tmux new-session -s "+str(username)+"-pupy"
+    os.system('xterm -T "'+str(username)+'" -e '+str(commandd))
     return render(
         request,
         'pupy/android/listen.html',
