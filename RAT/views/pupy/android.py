@@ -78,7 +78,9 @@ def listen(request):
     )
 def startlisten(request):
     username = request.user.username
-    port = 6666+int(request.user.id)
+    portt = 6666
+    port= portt+int(request.user.id)
+
 
     os.system('tmux send-keys -t '+str(username)+'-pupy "/root/django/pupy/pupy/pupysh.py -a ssl '+str(port)+'""\n"')
 
