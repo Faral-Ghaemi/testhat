@@ -1,32 +1,16 @@
-<!DOCTYPE html>
-<html lang="fa">
-<head>
-  {% block title %}<title>پرفایل کاربری | پیشخوان</title>{% endblock %}
-  {% load static %}
-  <meta charset="UTF-8">
-  <link rel="stylesheet" href="{% static 'css/fonts.css' %}">
-  <link rel="stylesheet" href="{% static 'style.css' %}">
-</head>
-<body>
-<div class="rside">
-  <ul>
-    <li><a href="{% url 'RAT:index' %}">پیشخوان</a></li>
-    {% if user.is_authenticated %}
-    <li><a href="{% url 'RAT:index' %}">شناسه: {{ user.get_username }}</a></li>
-    <li><a href="{% url 'logout'%}?next={{request.path}}">خروج از سیستم</a></li>
-    {% endif %}
-    <li><a href="">رت از طریق متااسپلویت</a></li>
-    <li><a href="">رت از طریق پوپای</a></li>
-    <li><a href="">رت ویندوز</a></li>
-  </ul>
+{% extends "base_generic.html" %}
+
+{% block content %}
+<h1>hacktool Home</h1>
+
+  <p>Welcome to <em>RAT</em>, hacktool </p>
+
+<h2>your account</h2>
+<div class="w3-half">
+  <a href="{% url 'RAT:msf/android/add' %}" class="w3-button w3-block w3-green w3-section" ><i>Create RAT</i></a>
 </div>
-<div class="lside">
-<div class="admin-box">
-	<div class="rat-genrate">
-		<a href="{% url 'RAT:msf/android/add' %}">تولید رت از طریق متا اسپلوبت</a>
-		<a href="{% url 'RAT:msf/android/listen' %}">گرفتن دسترسی</a>
-	</div>
+<div class="w3-half">
+  <a href="{% url 'RAT:msf/android/listen' %}" class="w3-button w3-block w3-red w3-section" ><i>Listenning RAT</i></a>
 </div>
-</div>
-</body>
-</html>
+
+{% endblock %}
