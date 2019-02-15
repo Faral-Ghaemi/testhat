@@ -13,9 +13,9 @@ import gmplot
 from django.http import JsonResponse
 from .metasploit import *
 from .pupy import *
+from django.contrib.auth.mixins import LoginRequiredMixin
 
-
-def index(request):
+def index(request,LoginRequiredMixin):
     """
     View function for home page of site.
     """
