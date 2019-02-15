@@ -14,7 +14,9 @@ from django.http import JsonResponse
 from .metasploit import *
 from .pupy import *
 from django.contrib.auth.mixins import LoginRequiredMixin
+from django.contrib.auth.decorators import login_required
 
+@login_required
 def index(request):
     """
     View function for home page of site.
