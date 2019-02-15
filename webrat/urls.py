@@ -19,7 +19,7 @@ from django.conf import settings
 from django.conf.urls.static import static
 from RAT import views
 from django.contrib.auth import views as auth_views
-from app.forms import CustomAuthForm
+from RAT.forms import CustomAuthForm
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('rat/', include('RAT.urls'), name='RAT'),
