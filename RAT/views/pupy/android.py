@@ -75,6 +75,7 @@ def listen(request):
     file =os.system('tmux capture-pane -t '+str(username)+'-pupy -pS -1000000 > '+str(dir)+'file.txt""\n"')
     with open(dir+'file.txt', 'rb') as fh:
         last2 = fh.readlines()[-2].decode()
+        last = fh.readlines()[-1].decode()
 
     return render(
         request,
