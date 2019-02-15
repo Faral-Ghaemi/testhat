@@ -21,3 +21,25 @@ body {
     text-align: center;
     padding: 10px;
 }
+.login-form {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.login-form tr td {
+    width: 150px;
+    margin: 5px;
+}
+.login-form a {
+    color: #ffffff;
+}
+.login-form input[type="submit"] {
+    width: 200px;
+    padding: 3px;
+    border: none;
+    border-radius: 2px;
+    color: #fff;
+    background-color: #2b7b75;
+    font-family: inherit;
+    font-size: 20px;
+    margin: 15px auto;
+}
