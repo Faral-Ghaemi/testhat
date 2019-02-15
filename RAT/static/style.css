@@ -1,3 +1,23 @@
 body {
     direction: rtl;
+    font-family: 'iranyekan', Tahoma;
+    font-size: 16px;
+}
+.login-page {
+    background-image: url("img/login-page.jpg");
+    background-size: 100%;
+}
+.login-box {
+    background-color: #43B5AD;
+    width: 380px;
+    margin: 15% auto;
+    color: #ffffff;
+    text-align: center;
+}
+.green-notif {
+    background: rgba(0,0,0,0.1);
+    min-height: 32px;
+    line-height: 22px;
+    text-align: center;
+    padding: 10px;
 }
