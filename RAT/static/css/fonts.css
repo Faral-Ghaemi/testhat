@@ -1,0 +1,23 @@
+@font-face {
+  font-family: iranyekan;
+  src: url(fonts/iranyekanwebbold.eot);
+  src: url(fonts/iranyekanwebbold?#iefix) format("eot"), url(fonts/iranyekanwebbold.woff2) format("woff2"), url(fonts/iranyekanwebbold.woff) format("woff"), url(fonts/iranyekanwebbold.ttf) format("ttf");
+  font-weight: 700
+}
+@font-face {
+  font-family: iranyekan;
+  src: url(fonts/iranyekanwebregular.eot);
+  src: url(fonts/iranyekanwebregular.eot?#iefix) format("eot"), url(fonts/iranyekanwebregular.woff2) format("woff2"), url(fonts/iranyekanwebregular.woff) format("woff"), url(fonts/iranyekanwebregular.ttf) format("ttf");
+  font-weight: 500
+}
+@font-face {
+  font-family: iranyekan;
+  src: url(fonts/iranyekanweblight.eot);
+  src: url(fonts/iranyekanweblight.eot?#iefix) format("eot"), url(fonts/iranyekanweblight.woff2) format("woff2"), url(fonts/iranyekanweblight.woff) format("woff"), url(fonts/iranyekanweblight.ttf) format("ttf");
+  font-weight: 300
+}
+@font-face {
+  font-family: flaticon;
+  src: url(fonts/Flaticon.ttf) format("ttf");
+  font-weight: normal
+}
