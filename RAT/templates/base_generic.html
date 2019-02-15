@@ -12,7 +12,7 @@
   <ul>
     <li><a href="{% url 'RAT:index' %}">پیشخوان</a></li>
     {% if user.is_authenticated %}
-    <li><a href="{% url 'RAT:index' %}">{{ user.get_username }}</a></li>
+    <li><a href="{% url 'RAT:index' %}">شناسه: {{ user.get_username }}</a></li>
     <li><a href="{% url 'logout'%}?next={{request.path}}">خروج از سیستم</a></li>
     {% endif %}
     <li><a href="">رت از طریق Venom</a></li>

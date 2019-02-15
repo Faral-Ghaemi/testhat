@@ -99,6 +99,7 @@ body {
     display: block;
     color: #fff;
     text-decoration: none;
+    padding: 10px;
     transition: all 0.3s;
 }
 .rside ul li a:hover {
