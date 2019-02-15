@@ -72,10 +72,12 @@ def listen(request):
     dir = '/root/django/users/'+ str(username)+'/pupy/'
     commandd = "tmux new-session -s "+str(username)+"-pupy"
     os.system('xterm -T "'+str(username)+'" -e '+str(commandd))
-    file =os.system('tmux capture-pane -t '+str(username)+' -pS -1000000 > '+str(dirr)+'file.txt""\n"')
+    file =os.system('tmux capture-pane -t '+str(username)+'-pupy -pS -1000000 > '+str(dir)+'file.txt""\n"')
+    with open(dir+'file.txt', 'rb') as fh:
+        last = fh.readlines()[-1].decode()
     with open(dir+'file.txt', 'rb') as fh:
         last2 = fh.readlines()[-2].decode()
-        last = fh.readlines()[-1].decode()
+
 
     return render(
         request,
