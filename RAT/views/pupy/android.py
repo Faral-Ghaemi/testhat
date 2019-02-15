@@ -31,7 +31,7 @@ def add(request):
         d=os.system('mkdir /root/django/users/'+ str(username)+'/pupy')
         c=os.system('cd /root/django/pupy/pupy ;./pupygen.py -O android -o '+ str(dir)+'.apk connect --host '+str(host)+' --transport ssl')
         if c == 0:
-            c = "Your rat created in "+ str(dir)+".apk"
+            c = "رت شما در این آدرس ایجاد شد "+ str(dir)+".apk"
     ##down
         username = request.user.username
         file_path = app
@@ -43,7 +43,7 @@ def add(request):
 
 
     else:
-        c = 'you dont have credit'
+        c = 'شما برای ساخت رت به اندازه کافی اعتبار ندارید'
     # Render the HTML template index.html with the data in the context variable
 
     return render(

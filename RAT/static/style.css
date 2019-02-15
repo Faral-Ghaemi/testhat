@@ -134,7 +134,7 @@ body {
     margin: 25px 0;
     width: 30%;
 }
-#dash-meta, #dash-pupy, #dastressi, #tolid {
+#dash-meta, #dash-pupy, #dastressi, #tolid, #rat-address, #rat-download {
     display: block;
     color: #ffffff;
     background-color: #E25A59;
@@ -143,6 +143,7 @@ body {
     border-radius: 2px;
     padding: 5px;
     text-align: center;
+    transition: all 0.3s;
 }
 #dash-pupy {
     background-color: #DEB948;
@@ -154,4 +155,14 @@ body {
 #dastressi {
     background-color: #578EBE;
     margin-top: 10px;
+}
+#rat-download {
+    background-color: #3CA39B;
+}
+#rat-address {
+    background-color: #43B5AD;
+    margin-top: 10px;
+}
+#rat-download:hover {
+    background-color: #43B5AD;
 }
