@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  {% block title %}<title>پرفایل کاربری | پیشخوان</title>{% endblock %}
+  {% load static %}
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="{% static 'css/fonts.css' %}">
+  <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+<div class="rside">
+  <ul>
+    <li><a href="{% url 'RAT:index' %}">پیشخوان</a></li>
+    {% if user.is_authenticated %}
+    <li><a href="{% url 'RAT:index' %}">شناسه: {{ user.get_username }}</a></li>
+    <li><a href="{% url 'logout'%}?next={{request.path}}">خروج از سیستم</a></li>
+    {% endif %}
+    <li><a href="">رت از طریق متااسپلویت</a></li>
+    <li><a href="">رت از طریق پوپای</a></li>
+    <li><a href="">رت ویندوز</a></li>
+  </ul>
+</div>
+<div class="lside">
+<div class="admin-box">
+	<div class="rat-genrate">
+		<a href="{% url 'RAT:pupy/android/add' %}">تولید رت از طریق متا اسپلوبت</a>
+		<a href="{% url 'RAT:pupy/android/listen' %}">گرفتن دسترسی</a>
+	</div>
+</div>
+</div>
+</body>
+</html>
