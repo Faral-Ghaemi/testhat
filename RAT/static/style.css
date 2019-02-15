@@ -15,6 +15,7 @@ body {
     text-align: center;
     border-radius: 3px;
     overflow: hidden;
+    box-shadow: 0px 0px 15px 1px #414141;
 }
 .login-form form {
     margin: 45px 45px 10px 45px;
@@ -34,7 +35,7 @@ body {
 }
 .form-lable {
     text-align: right;
-    margin-bottom: 10ox;
+    margin-bottom: 15px 0 8px 0;
 }
 .login-box a {
     color: #ffffff;
@@ -56,7 +57,7 @@ body {
     transition: all 0.3s;
 }
 .form-submit input[type="submit"]:hover {
-    background-color: rgb(105, 196, 189);
+    background-color: #3e8781;
 }
 .error {
     background-color: #E25A59;
@@ -68,5 +69,5 @@ body {
     width: 100%;
     border: none;
     border-radius: 2px;
-    padding: 10px;
+    padding: 10px 0;
 }
