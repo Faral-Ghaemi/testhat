@@ -18,7 +18,7 @@ body {
     box-shadow: 0px 0px 15px 1px #414141;
 }
 .login-form form {
-    margin: 45px 45px 10px 45px;
+    margin: 10px 45px 10px 45px;
 }
 .green-notif {
     background: rgba(0,0,0,0.1);
