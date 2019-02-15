@@ -166,3 +166,12 @@ body {
 #rat-download:hover {
     background-color: #43B5AD;
 }
+#item-btn {
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    padding: 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}

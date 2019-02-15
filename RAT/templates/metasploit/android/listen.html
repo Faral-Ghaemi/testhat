@@ -1,21 +1,22 @@
 {% extends "base_generic.html" %}
 
 {% block content %}
+<div class="dash-box">
 <div class="w3-raw">
-
 <div class="w3-quarter">
-  <a href="{% url 'RAT:msf/android/startlisten' %}" class="w3-button w3-block w3-green w3-section">شروع بررسی تارگت</a>
-  <a class="w3-bar-item w3-button w3-padding-large" href="{% url 'RAT:msf/android/add' %}">ساخت یا دریافت مجدد رت</a>
+  <a href="{% url 'RAT:msf/android/startlisten' %}" class="w3-button w3-block w3-green w3-section" id="rat-download">شروع بررسی تارگت</a>
+  <a class="w3-bar-item w3-button w3-padding-large" href="{% url 'RAT:msf/android/add' %}" id="tolid">ساخت یا دریافت مجدد رت</a>
 
   </div>
 <div class="w3-half" style="float: right;">
   {% if last == hacked%}
-  <a href="{% url 'RAT:msf/android/listen' %}" class="w3-button w3-block w3-green w3-section" ><i>تارگت مورد نظر هک شد :)</i></a>
+  <a href="{% url 'RAT:msf/android/listen' %}" class="w3-button w3-block w3-green w3-section" id="dash-meta"><i>تارگت مورد نظر هک شد :)</i></a>
   {% else %}
-  <a href="{% url 'RAT:msf/android/listen' %}" class="w3-button w3-block w3-red w3-section" >هنوز تارگت موردنظر هک نشده</a>
+  <a href="{% url 'RAT:msf/android/listen' %}" class="w3-button w3-block w3-red w3-section" id="dash-pupy">هنوز تارگت موردنظر هک نشده</a>
 
   {% endif %}
 
+</div>
 </div>
 </div>
 
@@ -23,21 +24,22 @@
 
 {% endblock %}
 {% block content1 %}
+<div class="dash-box">
 <div class="w3-container w3-card w3-white w3-round w3-margin w3-center"><br>
   <div class="w3-center" style="margin-left=40px;">
 
-        <a href="{% url 'RAT:msf/android/webcamsnap' %}" class="w3-center w3-quarter w3-button w3-block w3-{{ color }} w3-section w3-margin" >دوربین عقب</a>
-        <a href="{% url 'RAT:msf/android/webcamsnap2' %}" class="w3-center w3-quarter w3-button w3-block w3-{{ color }} w3-section w3-margin" >دوربین جلو</a>
-        <a href="{% url 'RAT:msf/android/dumpsms' %}" class="w3-quarter w3-center w3-button w3-block w3-{{ color }} w3-section w3-margin">گرفتن پیامک ها</a>
-        <a href="{% url 'RAT:msf/android/dumpcontacts' %}" class="w3-quarter w3-center w3-button w3-block w3-{{ color }} w3-section w3-margin">گرفتن کانتکت ها</a>
-        <a href="{% url 'RAT:msf/android/dumpcalllog' %}" class="w3-quarter w3-button w3-center w3-block w3-{{ color }} w3-section w3-margin">گرفتن لاگ تماس ها</a>
-        <a href="{% url 'RAT:msf/android/hideappicon' %}" class="w3-quarter w3-button w3-block w3-center w3-{{ color }} w3-section w3-margin">پنهان کردن آیکون رت</a>
-        <a href="{% url 'RAT:msf/android/geolocate' %}" class="w3-quarter w3-button w3-center w3-block w3-{{ color }} w3-section w3-margin">گرفتن موقعیت جغرافیایی</a>
+        <a href="{% url 'RAT:msf/android/webcamsnap' %}" class="w3-center w3-quarter w3-button w3-block w3-{{ color }} w3-section w3-margin" id="item-btn"><i class="flaticon-photograph"></i> دوربین عقب</a>
+        <a href="{% url 'RAT:msf/android/webcamsnap2' %}" class="w3-center w3-quarter w3-button w3-block w3-{{ color }} w3-section w3-margin" id="item-btn"><i class="flaticon-front-camera"></i>دوربین جلو</a>
+        <a href="{% url 'RAT:msf/android/dumpsms' %}" class="w3-quarter w3-center w3-button w3-block w3-{{ color }} w3-section w3-margin" id="item-btn"><i class="flaticon-sms"></i>گرفتن پیامک ها</a>
+        <a href="{% url 'RAT:msf/android/dumpcontacts' %}" class="w3-quarter w3-center w3-button w3-block w3-{{ color }} w3-section w3-margin" id="item-btn"><i class="flaticon-phone-book"></i>گرفتن کانتکت ها</a>
+        <a href="{% url 'RAT:msf/android/dumpcalllog' %}" class="w3-quarter w3-button w3-center w3-block w3-{{ color }} w3-section w3-margin" id="item-btn"><i class="flaticon-customer-service"></i>گرفتن لاگ تماس ها</a>
+        <a href="{% url 'RAT:msf/android/hideappicon' %}" class="w3-quarter w3-button w3-block w3-center w3-{{ color }} w3-section w3-margin" id="item-btn"><i class="flaticon-no-stopping"></i>پنهان کردن آیکون رت</a>
+        <a href="{% url 'RAT:msf/android/geolocate' %}" class="w3-quarter w3-button w3-center w3-block w3-{{ color }} w3-section w3-margin" id="item-btn"><i class="flaticon-map-pin-marked"></i>گرفتن موقعیت جغرافیایی</a>
 
 
 </div>
 
-
+</div>
 </div>
 {% endblock %}
 

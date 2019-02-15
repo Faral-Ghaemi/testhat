@@ -5,19 +5,20 @@
   {% load static %}
   <meta charset="UTF-8">
   <link rel="stylesheet" href="{% static 'css/fonts.css' %}">
+  <link rel="stylesheet" href="{% static 'css/fonts/flaticon.css' %}">
   <link rel="stylesheet" href="{% static 'style.css' %}">
 </head>
 <body>
 <div class="rside">
   <ul>
-    <li><a href="{% url 'RAT:index' %}">پیشخوان</a></li>
+    <li><a href="{% url 'RAT:index' %}"><i class="flaticon-dashboard"></i>پیشخوان</a></li>
     {% if user.is_authenticated %}
-    <li><a href="{% url 'RAT:index' %}">شناسه: {{ user.get_username }}</a></li>
-    <li><a href="{% url 'logout'%}?next={{request.path}}">خروج از سیستم</a></li>
+    <li><a href="{% url 'RAT:index' %}"><i class="flaticon-user"></i>شناسه: {{ user.get_username }}</a></li>
+    <li><a href="{% url 'logout'%}?next={{request.path}}"><i class="flaticon-power-button-off"></i> خروج از سیستم</a></li>
     {% endif %}
-    <li><a href="{% url 'RAT:msf_index' %}">رت از طریق متااسپلویت</a></li>
-    <li><a href="{% url 'RAT:pupy_index' %}">رت از طریق پوپای</a></li>
-    <li><a href="">رت ویندوز</a></li>
+    <li><a href="{% url 'RAT:msf_index' %}"><i class="flaticon-anonymous-logo"></i>رت از طریق متااسپلویت</a></li>
+    <li><a href="{% url 'RAT:pupy_index' %}"><i class="flaticon-python-language-logotype"></i>رت از طریق پوپای</a></li>
+    <li><a href=""><i class="flaticon-windows-8"></i>رت ویندوز</a></li>
   </ul>
 </div>
 <div class="lside">
