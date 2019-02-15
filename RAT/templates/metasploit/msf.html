@@ -2,12 +2,14 @@
 
 {% block content %}
 
-<h2>ساخت رت با متود متااسپلوید</h2>
+<h2>ساخت رت با متود متااسپلویت</h2>
+<div class="dash-box">
 <div class="w3-half">
-  <a href="{% url 'RAT:msf/android/add' %}" class="w3-button w3-block w3-green w3-section" ><i>تولید رت</i></a>
+  <a href="{% url 'RAT:msf/android/add' %}" class="w3-button w3-block w3-green w3-section" id="tolid">تولید رت</a>
 </div>
 <div class="w3-half">
-  <a href="{% url 'RAT:msf/android/listen' %}" class="w3-button w3-block w3-red w3-section" ><i>گرفتن دسترسی</i></a>
+  <a href="{% url 'RAT:msf/android/listen' %}" class="w3-button w3-block w3-red w3-section" id="dastressi">گرفتن دسترسی</a>
+</div>
 </div>
 
 {% endblock %}

@@ -1,6 +1,8 @@
 {% extends "base_generic.html" %}
 
 {% block content %}
-<a href="/rat/" class="w3-button w3-block w3-green w3-section" ><i>{{ c }} </i></a>
-<h2 w3-section><a href="{% url "RAT:download" %}">Downlaod Rat</a></h2>
+<div class="dash-box">
+<a href="/rat/" class="w3-button w3-block w3-green w3-section" id="rat-address"><i>{{ c }} </i></a>
+<a href="{% url "RAT:download" %}" id="rat-download">دانلود فایل رت با پسوند apk</a>
+</div>
 {% endblock %}
