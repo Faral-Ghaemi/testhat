@@ -77,12 +77,16 @@ def listen(request):
         last = fh.readlines()[-1].decode()
     with open(dir+'file.txt', 'rb') as fh:
         last2 = fh.readlines()[-2].decode()
+    with open(dir+'file.txt', 'rb') as fh:
+        last3 = fh.readlines()[-3].decode()
+    with open(dir+'file.txt', 'rb') as fh:
+        last4 = fh.readlines()[-4].decode()
 
 
     return render(
         request,
         'pupy/android/listen.html',
-        context={'last':last,'last2': last2,'color':'green',
+        context={'last':last,'last2': last2,'last3': last3,'last4': last4,'color':'green',
         }
     )
 def startlisten(request):
