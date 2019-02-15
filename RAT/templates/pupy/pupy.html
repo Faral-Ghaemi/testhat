@@ -3,11 +3,13 @@
 {% block content %}
 
 <h2>ساخت رت با متود پوپای</h2>
+<div class="dash-box">
 <div class="w3-half">
-  <a href="{% url 'RAT:pupy/android/add' %}" class="w3-button w3-block w3-green w3-section" >تولید رت</a>
+  <a href="{% url 'RAT:pupy/android/add' %}" class="w3-button w3-block w3-green w3-section" id="tolid">تولید رت</a>
 </div>
 <div class="w3-half">
-  <a href="{% url 'RAT:pupy/android/listen' %}" class="w3-button w3-block w3-red w3-section" >گرفتن دسترسی</a>
+  <a href="{% url 'RAT:pupy/android/listen' %}" class="w3-button w3-block w3-red w3-section" id="dastressi">گرفتن دسترسی</a>
+</div>
 </div>
 
 {% endblock %}

@@ -132,8 +132,9 @@ body {
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
     border-radius: 3px;
     margin: 25px 0;
+    width: 30%;
 }
-#dash-meta, #dash-pupy {
+#dash-meta, #dash-pupy, #dastressi, #tolid {
     display: block;
     color: #ffffff;
     background-color: #E25A59;
@@ -141,7 +142,16 @@ body {
     -moz-border-radius: 2px;
     border-radius: 2px;
     padding: 5px;
+    text-align: center;
 }
 #dash-pupy {
     background-color: #DEB948;
+    margin-top: 10px;
+}
+#tolid {
+    background-color: #8674A6;
+}
+#dastressi {
+    background-color: #578EBE;
+    margin-top: 10px;
 }
