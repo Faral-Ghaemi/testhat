@@ -1,4 +1,5 @@
 from .android import *
+@login_required
 
 def methods(request):
     """

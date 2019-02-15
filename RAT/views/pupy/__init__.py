@@ -1,5 +1,6 @@
 from .android import *
 
+@login_required
 def methods(request):
     """
     View function for home page of site.
