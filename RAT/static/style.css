@@ -189,9 +189,13 @@ body {
 }
 .cpright i {
     display: block;
-    margin-bottom: 5px;
+    float: right;
 }
 .cpright i::before {
     font-size: 48px;
     color: #111111;
+}
+.cpright span {
+    float: right;
+    width: 100px;
 }
