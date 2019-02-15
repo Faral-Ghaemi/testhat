@@ -8,16 +8,10 @@
   <a class="w3-bar-item w3-button w3-padding-large" href="{% url 'RAT:pupy/android/add' %}">Downlaod or Create Rat </a>
 
   </div>
-<div class="w3-half" style="float: right;">
-  {% if last == hacked%}
-  <a href="{% url 'RAT:pupy/android/listen' %}" class="w3-button w3-block w3-green w3-section" ><i>HACKED :)</i></a>
-  {% else %}
-  <a href="{% url 'RAT:pupy/android/listen' %}" class="w3-button w3-block w3-red w3-section" ><i>{{last}}</i></a>
-  <a href="{% url 'RAT:pupy/android/listen' %}" class="w3-button w3-block w3-red w3-section" ><i>{{last2}}</i></a>
 
-  {% endif %}
 
-</div>
+  <a href="{% url 'RAT:pupy/android/listen' %}" class="w3-button w3-block w3-red w3-section" ><i>{{last4}}<br>{{last3}}<br>{{last2}}<br>{{last2}}<br>{{last}}</i></a>
+
 </div>
 
 
