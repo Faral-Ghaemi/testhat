@@ -9,7 +9,7 @@
 </head>
 <body>
 <div class="rside">
-  <<ul>
+  <ul>
   <li><a href="{% url 'RAT:index' %}">پیشخوان</a></li>
   {% if user.is_authenticated %}
   <li><a href="{% url 'RAT:index' %}">{{ user.get_username }}</a></li>
