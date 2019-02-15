@@ -70,10 +70,15 @@ def listen(request):
     dir = '/root/django/users/'+ str(username)+'/pupy/'
     commandd = "tmux new-session -s "+str(username)+"-pupy"
     os.system('xterm -T "'+str(username)+'" -e '+str(commandd))
+    file =os.system('tmux capture-pane -t '+str(username)+' -pS -1000000 > '+str(dirr)+'file.txt""\n"')
+    with open(dir+'file.txt', 'rb') as fh:
+        last2 = fh.readlines()[-2].decode()
+        last = fh.readlines()[-1].decode()
+
     return render(
         request,
         'pupy/android/listen.html',
-        context={
+        context={'last':last,'last2': last2,'color':'green',
         }
     )
 def startlisten(request):
