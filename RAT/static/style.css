@@ -63,6 +63,13 @@ body {
     font-size: 14px;
     font-weight: 300;
 }
+.form-field input[type="text"] {
+    position: relative;
+}
 .form-field input[type="text"]:before {
     content:"شناسه کاربری";
+    color: #000;
+    position: absolute;
+    right: 0;
+    top: 0;
 }
