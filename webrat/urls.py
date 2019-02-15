@@ -18,14 +18,12 @@ from django.urls import path,include
 from django.conf import settings
 from django.conf.urls.static import static
 from RAT import views
-from django.contrib.auth import views as auth_views
-from RAT.forms import CustomAuthForm
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('rat/', include('RAT.urls'), name='RAT'),
     path('accounts/', include('django.contrib.auth.urls') ,name='accounts'),
     path('signup/', views.signup, name='signup'),
-    path('accounts/login/', auth_views.login, name='login', kwargs={"authentication_form":CustomAuthForm}),
 
 ]
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
