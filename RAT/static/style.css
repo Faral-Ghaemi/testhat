@@ -15,22 +15,33 @@ body {
     text-align: center;
     border-radius: 3px;
 }
+.login-form form {
+    margin: 45px 45px 10px 45px;
+}
 .green-notif {
     background: rgba(0,0,0,0.1);
     min-height: 32px;
     line-height: 22px;
     text-align: center;
     padding: 10px;
+    font-size: 14px;
+    font-weight: 300;
 }
 .form-field, .form-lable {
     float: right;
     width: 50%;
 }
+.form-lable {
+    text-align: right;
+}
 .login-box a {
     color: #ffffff;
+    text-decoration: none;
+    padding-bottom: 32px;
+    display: block;
 }
 .form-submit input[type="submit"] {
-    width: 200px;
+    width: 100%;
     padding: 3px;
     border: none;
     border-radius: 2px;
