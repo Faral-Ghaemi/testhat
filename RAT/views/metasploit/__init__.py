@@ -12,7 +12,7 @@ def methods(request):
     # Render the HTML template index.html with the data in the context variable
     return render(
         request,
-        'msf.html',
+        'metasploit/msf.html',
         context={
         },
     )
