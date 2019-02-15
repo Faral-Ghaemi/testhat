@@ -24,6 +24,7 @@ urlpatterns = [
     path('rat/', include('RAT.urls'), name='RAT'),
     path('accounts/', include('django.contrib.auth.urls') ,name='accounts'),
     path('signup/', views.signup, name='signup'),
+    path('', views.index , name='RAT:index'),
 
 ]
 urlpatterns += static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
