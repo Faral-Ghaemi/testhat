@@ -33,7 +33,7 @@ def index(request):
 
 
 
-
+@login_required
 def down(request):
     username = request.user.username
     dir = '/root/django/users/'+ str(username)+'/'+str(username)+'.apk'
