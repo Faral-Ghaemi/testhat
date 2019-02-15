@@ -26,16 +26,16 @@
 
 <form method="post" action="{% url 'login' %}" class="login-form">
     {% csrf_token %}
-
-    <div>
+<table cellspacing="0">
+    <tr>
         <td>شناسه کاربری: </td>
         <td>{{ form.username }}</td>
-    </div>
-    <div>
+    </tr>
+    <tr>
         <td>رمز عبور: </td>
         <td>{{ form.password }}</td>
-    </div>
-
+    </tr>
+</table>
     <div>
         <input type="submit" value="ورود" />
         <input type="hidden" name="next" value="{{ next }}" />
