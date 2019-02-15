@@ -22,10 +22,7 @@
 </div>
 <div class="lside">
   <div class="admin-box">
-    {% if user.is_authenticated %}
-    <li><a href="{% url 'RAT:index' %}">{{ user.get_username }}</a></li>
-    <li><a href="{% url 'logout'%}?next={{request.path}}">خروج از سیستم</a></li>
-    {% endif %}
+    {%block content%}{% endblock %}
   </div>
 </div>
 </body>
