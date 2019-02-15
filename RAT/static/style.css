@@ -14,6 +14,7 @@ body {
     color: #ffffff;
     text-align: center;
     border-radius: 3px;
+    overflow: hidden;
 }
 .login-form form {
     margin: 45px 45px 10px 45px;
@@ -50,4 +51,15 @@ body {
     font-family: inherit;
     font-size: 20px;
     margin: 15px auto;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.form-submit input[type="submit"]:hover {
+    background-color: rgb(105, 196, 189);
+}
+.error {
+    background-color: #E25A59;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 300;
 }
