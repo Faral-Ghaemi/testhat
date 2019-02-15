@@ -13,6 +13,7 @@ body {
     margin: 15% auto;
     color: #ffffff;
     text-align: center;
+    border-radius: 3px;
 }
 .green-notif {
     background: rgba(0,0,0,0.1);
@@ -21,18 +22,14 @@ body {
     text-align: center;
     padding: 10px;
 }
-.login-form {
-    margin-top: 25px;
-    margin-bottom: 25px;
+.form-field, .form-lable {
+    float: right;
+    width: 50%;
 }
-.login-form tr td {
-    width: 150px;
-    margin: 5px;
-}
-.login-form a {
+.login-box a {
     color: #ffffff;
 }
-.login-form input[type="submit"] {
+.form-submit input[type="submit"] {
     width: 200px;
     padding: 3px;
     border: none;
