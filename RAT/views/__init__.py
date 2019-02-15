@@ -15,7 +15,7 @@ from .metasploit import *
 from .pupy import *
 from django.contrib.auth.mixins import LoginRequiredMixin
 
-def index(request,LoginRequiredMixin):
+def index(request):
     """
     View function for home page of site.
     """
