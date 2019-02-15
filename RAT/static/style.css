@@ -63,6 +63,6 @@ body {
     font-size: 14px;
     font-weight: 300;
 }
-.form-field input[type="text"]:hover {
-    background-color: red;
+.form-field input[type="text"]:before {
+    content:"شناسه کاربری";
 }
