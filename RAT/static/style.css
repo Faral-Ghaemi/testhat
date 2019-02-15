@@ -176,3 +176,16 @@ body {
     border-radius: 3px;
     width: 100%;
 }
+.cpright {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    min-width: 150px;
+    min-height: 150px;
+    background-color: #cccccc;
+    border-radius: 3px;
+}
+.cpright i {
+    font-size: 250px;
+    color: #111111;
+}
