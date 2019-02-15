@@ -24,23 +24,20 @@
 {% endif %}
 {% endif %}
 
-<form method="post" action="{% url 'login' %}" class="login-form">
-    {% csrf_token %}
-<table cellspacing="0">
-    <tr>
-        <td>شناسه کاربری: </td>
-        <td>{{ form.username }}</td>
-    </tr>
-    <tr>
-        <td>رمز عبور: </td>
-        <td>{{ form.password }}</td>
-    </tr>
-</table>
-    <div>
-        <input type="submit" value="ورود" />
-        <input type="hidden" name="next" value="{{ next }}" />
-    </div>
-</form>
+<div class="login-form">
+    <form method="post" action="{% url 'login' %}">
+        {% csrf_token %}
+            <div class="form-lable">شناسه کاربری: </div>
+            <div class="form-field">{{ form.username }}</div>
+
+            <div class="form-lable">رمز عبور: </div>
+            <div class="form-field">{{ form.password }}</div>
+        <div class="form-submit">
+            <input type="submit" value="ورود" />
+            <input type="hidden" name="next" value="{{ next }}" />
+        </div>
+    </form>
+</div>
 
 {# Assumes you setup the password_reset view in your URLconf #}
 <a href="{% url 'password_reset' %}">رمز عبور خود را فراموش کرده اید؟</a>
