@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0;
+}
 body {
     direction: rtl;
     font-family: 'iranyekan', Tahoma;
@@ -70,4 +74,33 @@ body {
     border: none;
     border-radius: 2px;
     padding: 10px 0;
+}
+.rside {
+    width: 15%;
+    position: fixed;
+    height: 100%;
+    background-color: #1C2B36;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+}
+.lside {
+    width: 85%;
+    position: fixed;
+    height: 100%;
+    background-color: #e7e3b5;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+}
+.rside ul li a {
+    height: 32px;
+    line-height: 32px;
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+.rside ul li a:hover {
+    background-color: #111;
 }
