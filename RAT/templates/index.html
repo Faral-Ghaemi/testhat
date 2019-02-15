@@ -4,11 +4,13 @@
 
 
 <h2>{{ user.get_username }} عزیز خوش آمدید</h2>
+<div class="dash-box">
 <div class="w3-half">
-  <a href="{% url 'RAT:msf_index' %}" class="w3-button w3-block w3-green w3-section" >تولید رت از طریق MetaSploit</a>
+  <a href="{% url 'RAT:msf_index' %}" class="w3-button w3-block w3-green w3-section" id="dash-meta">تولید رت از طریق MetaSploit</a>
 </div>
 <div class="w3-half">
-  <a href="{% url 'RAT:pupy_index' %}" class="w3-button w3-block w3-red w3-section" >تولید رت از طریق PuPy</a>
+  <a href="{% url 'RAT:pupy_index' %}" class="w3-button w3-block w3-red w3-section" id="dash-pupy">تولید رت از طریق PuPy</a>
+</div>
 </div>
 
 {% endblock %}
