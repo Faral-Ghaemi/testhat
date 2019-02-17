@@ -12,6 +12,7 @@ urlpatterns = [
 
 
 ######## metasploit android by  rat:
+    path('msf/rats/', views.metasploit.android.rats , name='msf/android/rats'),
     path('msf/add/', views.metasploit.android.add , name='msf/android/add'),
     path('msf/listen/', views.metasploit.android.listen , name='msf/android/listen'),
     path('msf/listen/start', views.metasploit.android.startlisten , name='msf/android/startlisten'),

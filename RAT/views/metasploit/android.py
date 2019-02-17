@@ -16,6 +16,17 @@ from django.contrib.auth.decorators import login_required
 
 
 ###################                  metasploit
+def rats(request):
+    credits = models.Credit.objects.get(user = request.user)
+    c =credits.number
+    return render(
+        request,
+        'metasploit/android/rats.html',
+        context={'c' : c
+        },
+    )
+
+
 def add(request):
     credits = models.Credit.objects.get(user = request.user)
     if credits.number > 0:
