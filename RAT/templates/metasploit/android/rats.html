@@ -6,7 +6,6 @@
 <a href="{% url "RAT:download" %}" id="rat-download">دانلود رت از قبل تولید شده شما</a>
 </div>
 <div class="dash-box">
-<a href="/rat/" class="w3-button w3-block w3-green w3-section" id="rat-address"><i>اعتبار شما برابر است با : {{c}}</i></a>
-<a href="{% url "RAT:download" %}" id="rat-download">دانلود رت از قبل تولید شده شما</a>
+<a href="{% url 'RAT:msf/android/add' %}" class="w3-button w3-block w3-red w3-section" id="rat-address"><i>ساخت رت جدید</i></a>
 </div>
 {% endblock %}
