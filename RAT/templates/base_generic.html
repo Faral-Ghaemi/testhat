@@ -22,7 +22,8 @@
   </ul>
 </div>
 <div class="lside">
-  <img src="{% static '1.gif'%}" alt="">
+  <h2>{{ user.get_username }} عزیز خوش آمدید</h2>
+  <center><img src="{% static '1.gif'%}" alt="" style=""></center>
   <div class="admin-box">
     {%block content%}{% endblock %}
     {% block content1 %}{% endblock%}
