@@ -133,6 +133,7 @@ body {
     border-radius: 3px;
     margin: 25px 0;
     width: 30%;
+    float: leftx;
 }
 #dash-meta, #dash-pupy, #dastressi, #tolid, #rat-address, #rat-download {
     display: block;
