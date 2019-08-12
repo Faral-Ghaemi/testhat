@@ -1,7 +1,8 @@
 {% extends "base_generic.html" %}
 
 {% block content %}
-<meta http-equiv="refresh" content="10" />
+{% load leaflet_tags %}
+<meta http-equiv="refresh" content="20" />
 <div class="dash-box">
 <div class="w3-raw">
 <div class="w3-quarter">
@@ -44,6 +45,31 @@
 
 </div>
 </div>
+{% leaflet_js %}
+{% leaflet_css %}
+<script type="text/javascript">
+    function map_init_basic (map, options) {
+
+        L.marker([{{ lat }}, {{ long }}]).addTo(map);
+
+    }
+</script>
+
+{% leaflet_map "yourmap" callback="window.map_init_basic" %}
+<style media="screen">
+  .leaflet-container {  /* all maps */
+    width:  800px;
+    height: 600px;
+    margin-right: 600px;
+    margin-top : -600px;
+    position: unset;
+}
+
+#specialbigmap {
+    height: 800px;
+}
+
+</style>
 {% endblock %}
 
 

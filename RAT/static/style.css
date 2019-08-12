@@ -113,7 +113,7 @@ body {
 .admin-box h2 {
     margin: -28px -28px 28px -28px;
     line-height: 34px;
-    background: #F7F7F7;
+    background: #a5a061;
     border: 0px;
     color: #888;
     -webkit-box-shadow: none;
@@ -143,13 +143,14 @@ body {
     font-size: 16px;
 }
 .dash-box {
+    right: 0;
     padding: 10px;
     background: #ffffff;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
     border-radius: 3px;
     margin: 25px 0;
     width: 30%;
-    float: leftx;
+    position: relative;    
 }
 #dash-meta, #dash-pupy, #dastressi, #tolid, #rat-address, #rat-download {
     display: block;

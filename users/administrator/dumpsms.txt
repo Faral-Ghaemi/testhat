@@ -1,0 +1,3083 @@
+
+=====================
+[+] SMS messages dump
+=====================
+
+Date: 2019-07-18 07:16:40 +0000
+OS: Android 4.3 - Linux 3.4.0-2566126 (armv7l)
+Remote IP: 83.120.32.171
+Remote Port: 53618
+
+#1
+Type	: Incoming
+Date	: 2023-12-21 15:19:59
+Address	: +9810002503
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1393/12/27 18:47:32 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :9 مانده معوق :52642 مانده جريمه :316 شماره پيگيري:527487
+
+#2
+Type	: Incoming
+Date	: 2023-12-21 15:19:06
+Address	: +9810002503
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1393/12/27 18:46:39 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :9 مانده معوق :432054 مانده جريمه :5240 شماره پيگيري:523531
+
+#3
+Type	: Incoming
+Date	: 2019-07-18 03:32:00
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: بسته آلفا+ سی روزه 2گیگابایت + 200 مگابایت هدیه صبحانت(6 صبح تا 12 ظهر) شما در ساعت 15:51:02 روز 1398/04/27 بصورت خودکار تمديد و مبلغ 139000 ریال به حساب شما منظور خواهد شد. در صورت عدم تمايل به تمديد خودکار کد دستوري #8*100* را شماره گيري نماييد. به هزینه ی بسته 9% مالیات برارزش افزوده، اضافه میگردد.
+
+#4
+Type	: Incoming
+Date	: 2019-07-17 05:56:47
+Address	: +989181621686
+Status	: NOT_RECEIVED
+Message	: سلام.وقت شما بخیر.ببخشید مهندس جان این چند روز اراک نیستم‌ اگر لطف کنید، انشاالله اول هفته لیست را میارم‌خدمتتون.تشکر
+
+#5
+Type	: Incoming
+Date	: 2019-07-17 04:08:55
+Address	: +989181601949
+Status	: NOT_RECEIVED
+Message	: سلام و ارادت صبح‌ بخیر حتما
+
+#6
+Type	: Outgoing
+Date	: 2019-07-17 03:57:42
+Address	: +989181601949
+Status	: NOT_RECEIVED
+Message	: سلام صبح بخیر.لطفا لیست نمرات رابه گروه تحویل تا ارسال نماییم.با تشکر
+
+#7
+Type	: Outgoing
+Date	: 2019-07-17 03:57:13
+Address	: +989181621686
+Status	: NOT_RECEIVED
+Message	: سلام صبح بخیر.لطفا لیست نمرات رابه گروه تحویل تا ارسال نماییم.با تشکر
+
+#8
+Type	: Outgoing
+Date	: 2019-07-17 03:56:02
+Address	: 09188615553
+Status	: NOT_RECEIVED
+Message	: سلام صبح بخیر.لطفا لیست نمرات رابه گروه تحویل تا ارسال نماییم.با تشکر
+
+#9
+Type	: Outgoing
+Date	: 2019-07-17 03:55:24
+Address	: 09183615836
+Status	: NOT_RECEIVED
+Message	: سلام صبح بخیر.لطفا لیست نمرات رابه گروه تحویل تا ارسال نماییم.با تشکر
+
+#10
+Type	: Incoming
+Date	: 2019-07-17 03:37:22
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: بسته آلفا+ سی روزه 2گیگابایت + 200 مگابایت هدیه صبحانت(6 صبح تا 12 ظهر) شما در ساعت 15:51:02 روز 1398/04/27 بصورت خودکار تمديد و مبلغ 139000 ریال به حساب شما منظور خواهد شد. در صورت عدم تمايل به تمديد خودکار کد دستوري #8*100* را شماره گيري نماييد. به هزینه ی بسته 9% مالیات برارزش افزوده، اضافه میگردد.
+
+#11
+Type	: Outgoing
+Date	: 2019-07-16 14:31:56
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: نیم ساعت دیگه تقریبا زنگ زدم بیایید پایین
+
+#12
+Type	: Incoming
+Date	: 2019-07-16 14:23:05
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: کی مییای دنبالم
+
+#13
+Type	: Incoming
+Date	: 2019-07-16 10:25:53
+Address	: +989187647430
+Status	: NOT_RECEIVED
+Message	: Let's video chat and text on imo! Get the free app http://imo.im
+
+#14
+Type	: Outgoing
+Date	: 2019-07-16 07:52:15
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: آخیییییی.
+
+#15
+Type	: Incoming
+Date	: 2019-07-16 07:50:35
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: بخاطر دخترت نرفتم وگرنه قراربود از صبح برم
+
+#16
+Type	: Outgoing
+Date	: 2019-07-16 07:27:20
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: اگه در توانم بود باشه اگه هم نیومدم که هیچ. با ازانس برو گرما مریص نشه .ناهار میرفتی راستی
+
+#17
+Type	: Incoming
+Date	: 2019-07-16 07:24:12
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: سلام بعد ناهار میرم خونه شهین غروب لطف کن بیا دنبالم
+
+#18
+Type	: Incoming
+Date	: 2019-07-16 06:56:01
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: شما دارای 1211 مگابایت دیتا تا 1398/04/27,می باشید
+
+#19
+Type	: Incoming
+Date	: 2019-07-16 06:47:17
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: شما دارای 1211 مگابایت دیتا تا 1398/04/27,می باشید
+
+#20
+Type	: Incoming
+Date	: 2019-07-15 22:28:08
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: صبح برای قرصام بیدارم نکن نمیخورم خوبم دیگه.
+
+#21
+Type	: Incoming
+Date	: 2019-07-15 17:52:11
+Address	: +989187647430
+Status	: NOT_RECEIVED
+Message	: سلام
+
+#22
+Type	: Outgoing
+Date	: 2019-07-15 14:26:17
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: الان نزدیکم فاطمیه
+
+#23
+Type	: Incoming
+Date	: 2019-07-15 14:25:12
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: کی حاضر باشم
+
+#24
+Type	: Outgoing
+Date	: 2019-07-15 11:01:36
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه.
+
+#25
+Type	: Incoming
+Date	: 2019-07-15 10:53:21
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا غروب بیا دنبالم ساعت هفت
+
+#26
+Type	: Incoming
+Date	: 2019-07-15 07:07:02
+Address	: 9820008943
+Status	: NOT_RECEIVED
+Message	: بيمه گزار محترم بيمه سامان جناب آقاي مرادي عمرتان به شيوه ي باران پُــر از تکرارِ طراوت باد، افتخار بيمه سامان عرض تبريک در سالروز تولد شماست. 8943 پاسخگوي هميشگي شما
+
+#27
+Type	: Outgoing
+Date	: 2019-07-15 05:22:49
+Address	: +989183643072
+Status	: NOT_RECEIVED
+Message	: دیروز گرفتم حاضرن
+
+#28
+Type	: Outgoing
+Date	: 2019-07-15 04:56:55
+Address	: +989183643072
+Status	: NOT_RECEIVED
+Message	: و علیرضاحسنی.افروز .
+
+#29
+Type	: Incoming
+Date	: 2019-07-15 04:56:07
+Address	: +989183643072
+Status	: NOT_RECEIVED
+Message	: پرینت نمراتشون را بگیر تا در موردشون تصمیم بگیرم
+
+#30
+Type	: Outgoing
+Date	: 2019-07-15 04:54:19
+Address	: +989183643072
+Status	: NOT_RECEIVED
+Message	: سلام مهدوی نقشه .عسگری محمدرضا.مومنی وحید بتن آرمه.مرزبان .زندیه وکیلی .مرادی واجرلو
+
+#31
+Type	: Incoming
+Date	: 2019-07-15 04:50:20
+Address	: +989183643072
+Status	: NOT_RECEIVED
+Message	: سلام لیست اساتیدی را که نمره آنها ثبت نشده است و قرار بود هفته قبل تهیه کنید را امروز تهیه و برای من ارسال نمایید. ممنون
+
+#32
+Type	: Incoming
+Date	: 2019-07-14 20:13:12
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: شب بخیر پدر عزیزم♡
+
+#33
+Type	: Outgoing
+Date	: 2019-07-14 20:11:59
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بخواب شو بخير
+
+#34
+Type	: Incoming
+Date	: 2019-07-14 20:09:51
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اره میخوام بخوابم الان
+
+#35
+Type	: Outgoing
+Date	: 2019-07-14 20:08:50
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بیداری؟ بهتری؟
+
+#36
+Type	: Incoming
+Date	: 2019-07-14 18:37:32
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: نیمه نهایی عصرجدیده
+
+#37
+Type	: Incoming
+Date	: 2019-07-14 17:23:07
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: شما دارای 1298 مگابایت دیتا تا 1398/04/27,می باشید
+
+#38
+Type	: Incoming
+Date	: 2019-07-14 14:23:53
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: میای نزدیک فلکه ام
+
+#39
+Type	: Incoming
+Date	: 2019-07-14 13:35:33
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: سواری
+
+#40
+Type	: Outgoing
+Date	: 2019-07-14 13:34:58
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: با سواری یا مینی بوس؟؟
+
+#41
+Type	: Outgoing
+Date	: 2019-07-14 13:25:07
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: پلیس راه بگو اگه تونستم میام اگه تونستم
+
+#42
+Type	: Incoming
+Date	: 2019-07-14 13:24:22
+Address	: +989187981275
+Status	: NOT_RECEIVED
+Message	: کمیجان راه افتادم
+
+#43
+Type	: Outgoing
+Date	: 2019-07-14 13:23:38
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: اراک ؟
+
+#44
+Type	: Incoming
+Date	: 2019-07-14 13:20:43
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: ترمینالم
+
+#45
+Type	: Outgoing
+Date	: 2019-07-14 12:20:54
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه
+
+#46
+Type	: Incoming
+Date	: 2019-07-14 12:17:56
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: غروب زنگ میزنم بیای دنبالم
+
+#47
+Type	: Outgoing
+Date	: 2019-07-14 04:58:06
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بیدار شدی زنگ بزن
+
+#48
+Type	: Incoming
+Date	: 2019-07-13 19:15:23
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: تب دارم یکم شاید برم دکتر
+
+#49
+Type	: Outgoing
+Date	: 2019-07-13 18:56:07
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بیداری؟بهتری؟
+
+#50
+Type	: Outgoing
+Date	: 2019-07-13 17:54:43
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: زدم
+
+#51
+Type	: Incoming
+Date	: 2019-07-13 17:53:57
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا بزن شبکه ۱
+
+#52
+Type	: Incoming
+Date	: 2019-07-13 16:12:06
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: شما دارای 1423 مگابایت دیتا تا 1398/04/27,می باشید
+
+#53
+Type	: Incoming
+Date	: 2019-07-13 15:40:46
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه میخورم
+
+#54
+Type	: Outgoing
+Date	: 2019-07-13 15:39:40
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: ماست خوبه بخور دو روز تو بدنت هست قرص ها ت هم بخور
+
+#55
+Type	: Incoming
+Date	: 2019-07-13 15:38:08
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: نه صبح رفتیم دیگه
+
+#56
+Type	: Outgoing
+Date	: 2019-07-13 15:36:48
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: میخوای بریم دکتر؟
+
+#57
+Type	: Incoming
+Date	: 2019-07-13 07:38:42
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: دفترچم تو کشو اولی دراورم اونی ک بغل تخته
+
+#58
+Type	: Outgoing
+Date	: 2019-07-13 07:38:01
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه
+
+#59
+Type	: Incoming
+Date	: 2019-07-13 07:37:43
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بیا بریم دکتر
+
+#60
+Type	: Incoming
+Date	: 2019-07-13 04:13:17
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يك قسط از قرارداد 26533-1162-2197 با شماره كارت 6280237064384585 بمبلغ 2530455 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديركرد نسبت به پرداخت آن اقدام نماييد.
+
+#61
+Type	: Incoming
+Date	: 2019-07-12 21:59:04
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا اگه بیداری بزن والیبال
+
+#62
+Type	: Outgoing
+Date	: 2019-07-12 16:12:04
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: بیدار شده ؟زنگ نزد؟
+
+#63
+Type	: Incoming
+Date	: 2019-07-12 15:34:32
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابااااا
+
+#64
+Type	: Incoming
+Date	: 2019-07-12 14:01:36
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: خواب بیدارشد میگم
+
+#65
+Type	: Outgoing
+Date	: 2019-07-12 14:00:16
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: میوفتی زحمت فکر نکن امیر علی کجاست؟
+
+#66
+Type	: Incoming
+Date	: 2019-07-12 13:58:19
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: عزیزم الان توفکرت بودم چراتک میزنی
+
+#67
+Type	: Incoming
+Date	: 2019-07-12 13:25:11
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اوکی
+
+#68
+Type	: Outgoing
+Date	: 2019-07-12 13:23:51
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بیداری؟هفت و نيم میام تقریبا
+
+#69
+Type	: Outgoing
+Date	: 2019-07-12 08:50:53
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه
+
+#70
+Type	: Incoming
+Date	: 2019-07-12 08:44:06
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: غروب بریم بیرون
+
+#71
+Type	: Outgoing
+Date	: 2019-07-11 22:34:09
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: الان؟
+
+#72
+Type	: Incoming
+Date	: 2019-07-11 22:33:17
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اره ولی خیلی خوابم میاد میخوام بخوابم دیگه
+
+#73
+Type	: Incoming
+Date	: 2019-07-11 22:33:16
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: زنگ نزنی؟
+
+#74
+Type	: Outgoing
+Date	: 2019-07-11 22:18:24
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بیداری؟
+
+#75
+Type	: Incoming
+Date	: 2019-07-11 18:19:15
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه
+
+#76
+Type	: Outgoing
+Date	: 2019-07-11 18:18:52
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اره خونه
+
+#77
+Type	: Incoming
+Date	: 2019-07-11 18:18:27
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: کجایی خوردی شام
+
+#78
+Type	: Incoming
+Date	: 2019-07-11 15:38:28
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: فردا که نداره پدر عزیزم امشب داره
+
+#79
+Type	: Outgoing
+Date	: 2019-07-11 15:34:08
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بهع.حوصله داری. بی خیال فردا می بینم
+
+#80
+Type	: Incoming
+Date	: 2019-07-11 15:31:27
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: ساعت ۲:۳۰شب والیباله
+
+#81
+Type	: Incoming
+Date	: 2019-07-11 11:59:08
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: :-*
+
+#82
+Type	: Incoming
+Date	: 2019-07-11 05:01:44
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: مواظب خودت باش
+
+#83
+Type	: Incoming
+Date	: 2019-07-10 16:55:06
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:150,000+ حساب:15001 مانده:237,541 0419-21:23
+
+#84
+Type	: Outgoing
+Date	: 2019-07-08 11:51:47
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: امروز نیست زنگ زدم
+
+#85
+Type	: Incoming
+Date	: 2019-07-08 11:51:23
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: ادرس بدیعی رابگو برم اینجاازاد فرقی نداره
+
+#86
+Type	: Outgoing
+Date	: 2019-07-08 11:51:10
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: ن.بگو
+
+#87
+Type	: Incoming
+Date	: 2019-07-08 11:50:44
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: خوابی؟
+
+#88
+Type	: Incoming
+Date	: 2019-07-08 03:39:05
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 با شماره كارت 6280237064384411 جمعا بمبلغ 3905181 ريال نزد شعبه قدس اراك تا تاريخ 98/04/17 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#89
+Type	: Incoming
+Date	: 2019-07-07 11:53:31
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: شما دارای 60 مگابایت دیتای محدود صبحگاهی تا 1398/04/27, 1701 مگابایت دیتا تا 1398/04/27,می باشید
+
+#90
+Type	: Incoming
+Date	: 2019-07-06 12:51:34
+Address	: 98300061479
+Status	: NOT_RECEIVED
+Message	: بيمارستان مرکزطبي کودکان درمانگاه اعصاب دکتر رضا شروین بدو تاريخ مراجعه :1398/09/12 ساعت: 14:00 کد پيگيري =889041 شماره نوبت =6 در صورت تاخیر بیش از 15 دقیقه از ساعت 14:00 نوبت شما لغو می گردد.
+
+#91
+Type	: Outgoing
+Date	: 2019-07-04 07:49:57
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: تو چه کار می کنی؟
+
+#92
+Type	: Outgoing
+Date	: 2019-07-04 06:40:26
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: قرمز.پیرهن نو قرمزه اتو شود
+
+#93
+Type	: Incoming
+Date	: 2019-07-04 06:39:35
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: تم خاصی دارد؟
+
+#94
+Type	: Incoming
+Date	: 2019-07-04 06:39:24
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: سلام
+
+#95
+Type	: Outgoing
+Date	: 2019-07-04 06:38:46
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: شب تولد صدرا دعوتیم شازند.....
+
+#96
+Type	: Incoming
+Date	: 2019-07-04 03:00:22
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: مشتري گرامي با سلام، نظر به عدم پرداخت اقساط در سررسيد مربوط به تسهيلات شماره 6303813554000 دريافتي از شعبه 2872 بانک ملي ايران، نسبت به واريز اقساط، حداکثر ظرف مدت 10 روز اقدام فرماييد.
+
+#97
+Type	: Incoming
+Date	: 2019-07-03 15:18:29
+Address	: +989187671315
+Status	: NOT_RECEIVED
+Message	: شام حاضر عزیزم
+
+#98
+Type	: Outgoing
+Date	: 2019-07-03 14:39:41
+Address	: 09187671315
+Status	: NOT_RECEIVED
+Message	: کلاس یک ساعت هست نه شش ساعت شام ساعت نه حاضر باشه
+
+#99
+Type	: Incoming
+Date	: 2019-07-02 09:25:00
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: شارژ انجام شد.اعتبارشما 244401 ريال تا 1400/04/10. اینترنت به صرفه *1000*21#
+
+#100
+Type	: Incoming
+Date	: 2019-07-01 14:49:01
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: متششکککرررم پدررجاان:-*
+
+#101
+Type	: Incoming
+Date	: 2019-06-30 08:04:20
+Address	: HAMRAHAVAL
+Status	: NOT_RECEIVED
+Message	: شما دارای 119 مگابایت دیتای محدود صبحگاهی تا 1398/04/27, 1796 مگابایت دیتا تا 1398/04/27,می باشید
+
+#102
+Type	: Incoming
+Date	: 2019-06-28 12:56:16
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا کجایی
+
+#103
+Type	: Incoming
+Date	: 2019-06-27 11:07:28
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: میخواستم ببینم کی حاضر باشم.میرم خونه یساعت دیگه
+
+#104
+Type	: Outgoing
+Date	: 2019-06-27 11:06:27
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: برا چی؟
+
+#105
+Type	: Incoming
+Date	: 2019-06-27 11:06:17
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه
+
+#106
+Type	: Outgoing
+Date	: 2019-06-27 11:05:52
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: هفت تقریبا.
+
+#107
+Type	: Incoming
+Date	: 2019-06-27 11:05:23
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: سلام بعداز ظهر ساعت چند میریم؟
+
+#108
+Type	: Incoming
+Date	: 2019-06-24 10:30:53
+Address	: 985000489376000
+Status	: NOT_RECEIVED
+Message	: دانش آموخته گرامی آقای / خانم وحيد خاکباز با سلام به آگاهی می رساند تعداد 2 قسط از بدهی شما جمعا به مبلغ 962840 ریال ( اقساط و جریمه) معوق گردیده است. جهت پیش گیری از اطلاع رسانی به ضامن هر چه سریعتر اقدام نمایید. پرداخت از طریق آدرس bp.swf.ir
+
+#109
+Type	: Outgoing
+Date	: 2019-06-23 14:50:06
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اوکی
+
+#110
+Type	: Incoming
+Date	: 2019-06-23 14:49:30
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: میام نیم ساعت دیگه.
+
+#111
+Type	: Outgoing
+Date	: 2019-06-23 14:48:48
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: نه تو هم صبح دیگه بیا
+
+#112
+Type	: Incoming
+Date	: 2019-06-23 14:47:53
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: مادرجون میگه اگه میخوای بیای اینجا بیا رفتن
+
+#113
+Type	: Incoming
+Date	: 2019-06-23 14:25:53
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: شد.
+
+#114
+Type	: Incoming
+Date	: 2019-06-23 14:24:15
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه.
+
+#115
+Type	: Outgoing
+Date	: 2019-06-23 14:24:14
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: انجام شد بگو
+
+#116
+Type	: Outgoing
+Date	: 2019-06-23 14:23:57
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بیست تومن
+
+#117
+Type	: Outgoing
+Date	: 2019-06-23 14:23:43
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: سلام 6104337547398022 بانک ملت بنام رضا مرادی شرمنده
+
+#118
+Type	: Incoming
+Date	: 2019-06-23 14:06:11
+Address	: +989185272811
+Status	: NOT_RECEIVED
+Message	: سلام 6104337547398022 بانک ملت بنام رضا مرادی شرمنده حساب های ملی ام مباسفانة بخاطر ضمانت مسدوده .
+
+#119
+Type	: Outgoing
+Date	: 2019-06-23 14:02:03
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه
+
+#120
+Type	: Incoming
+Date	: 2019-06-23 14:01:30
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: سلام بزن سه والیبال
+
+#121
+Type	: Outgoing
+Date	: 2019-06-22 11:43:18
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اره
+
+#122
+Type	: Incoming
+Date	: 2019-06-22 11:30:00
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: رسیدید
+
+#123
+Type	: Outgoing
+Date	: 2019-06-22 06:49:56
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اره
+
+#124
+Type	: Incoming
+Date	: 2019-06-22 06:49:10
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: خونه مادرجونی
+
+#125
+Type	: Incoming
+Date	: 2019-06-22 06:03:00
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اون پیرهنی که میخوای اتو کنیو بزار.
+
+#126
+Type	: Incoming
+Date	: 2019-06-22 02:45:49
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي سررسيد قسط شماره وام:6303813554000 مبلغ:5,875,000 تاريخ سررسيد:1398-04-02
+
+#127
+Type	: Incoming
+Date	: 2019-06-22 01:41:22
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي سود:737+ حساب:15001 مانده:87,541 0331-24:00
+
+#128
+Type	: Incoming
+Date	: 2019-06-21 19:00:52
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: ظهرم اگه مادرجون خونه بود میرم اونجا
+
+#129
+Type	: Incoming
+Date	: 2019-06-21 18:58:33
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: یادت نره
+
+#130
+Type	: Outgoing
+Date	: 2019-06-21 18:57:36
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: شب بخیر.................
+
+#131
+Type	: Incoming
+Date	: 2019-06-21 18:57:17
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بیشتر
+
+#132
+Type	: Incoming
+Date	: 2019-06-21 18:57:14
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: پول برای من بزار نه پنج.ده.
+
+#133
+Type	: Incoming
+Date	: 2019-06-20 18:03:18
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: چششم.شببخیر
+
+#134
+Type	: Outgoing
+Date	: 2019-06-20 18:00:34
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه ولی تا آخر هفته بعد نوبت بعدی هست نه تو هفته بگی برم
+
+#135
+Type	: Incoming
+Date	: 2019-06-20 17:45:17
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: پدرجان اجازه من شب بمانم؟؟مامانجون گفت اگه بمونی میمونیم اینجا فردا ظهر میایم
+
+#136
+Type	: Incoming
+Date	: 2019-06-20 04:41:28
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي از پرداخت شما متشکريم شماره تسهيلات :6303813554000 مبلغ:4,900,000 تاريخ: 13980330 ساعت: 09.10.51
+
+#137
+Type	: Incoming
+Date	: 2019-06-20 04:41:05
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:4,900,000- حساب:17009 مانده:13,154 0330-09:10
+
+#138
+Type	: Incoming
+Date	: 2019-06-20 04:39:14
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي از پرداخت شما متشکريم شماره تسهيلات :6302678765006 مبلغ:3,615,000 تاريخ: 13980330 ساعت: 09.08.50
+
+#139
+Type	: Incoming
+Date	: 2019-06-20 04:38:55
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:3,615,000- حساب:17009 مانده:4,913,154 0330-09:08
+
+#140
+Type	: Incoming
+Date	: 2019-06-19 18:54:25
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: چشم.شب بخیر
+
+#141
+Type	: Outgoing
+Date	: 2019-06-19 18:36:12
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: فردا بیا.من خوابیدم شب بخیر
+
+#142
+Type	: Incoming
+Date	: 2019-06-19 15:41:49
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:155,000- حساب:17009 مانده:8,528,154 0329-19:43
+
+#143
+Type	: Incoming
+Date	: 2019-06-19 15:10:06
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي خودپرداز:2,000,000- حساب:17009 مانده:8,683,154 0329-19:39
+
+#144
+Type	: Incoming
+Date	: 2019-06-19 15:08:54
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:7,505,000- حساب:17009 مانده:10,683,154 0329-19:38
+
+#145
+Type	: Incoming
+Date	: 2019-06-19 12:18:58
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1398/03/29 16:48:30 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :61 مانده معوق :0 مانده جريمه :0 شماره پيگيري:537123
+
+#146
+Type	: Incoming
+Date	: 2019-06-19 12:18:35
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1398/03/29 16:47:53 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :60 مانده معوق :1224426 مانده جريمه :22258 شماره پيگيري:534314
+
+#147
+Type	: Incoming
+Date	: 2019-06-19 12:03:56
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي حقوق:18,183,095+ حساب:17009 مانده:18,188,154 0329-16:33
+
+#148
+Type	: Outgoing
+Date	: 2019-06-18 12:37:36
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: میام سراغتون یک ربع قبلش بگو
+
+#149
+Type	: Incoming
+Date	: 2019-06-18 12:37:15
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اره اینجا خیلی صدا باند هست نشنیدم زنگ زدی
+
+#150
+Type	: Outgoing
+Date	: 2019-06-18 12:31:04
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: رفتی ؟
+
+#151
+Type	: Incoming
+Date	: 2019-06-18 08:58:37
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: سلام ساعت چند میای بابا خودت میبریمون؟
+
+#152
+Type	: Incoming
+Date	: 2019-06-18 02:50:57
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي سررسيد قسط شماره وام:6302678765006 مبلغ:3,615,000 تاريخ سررسيد:1398-03-29
+
+#153
+Type	: Outgoing
+Date	: 2019-06-16 16:58:23
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: نه عزیزم
+
+#154
+Type	: Incoming
+Date	: 2019-06-15 10:31:19
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي خريد شارژ:20,000- حساب:17009 مانده:5,059 0325-15:01
+
+#155
+Type	: Incoming
+Date	: 2019-06-15 10:30:10
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي خريد شارژ:20,000- حساب:17009 مانده:25,059 0325-14:59
+
+#156
+Type	: Incoming
+Date	: 2019-06-13 03:18:17
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانك مسكن برداشت 410007925374 مبلغ:770,493 زمان:1398/03/23-07:47 مانده:240,465 شرح:برداشت با درخواست كتبي
+
+#157
+Type	: Incoming
+Date	: 2019-06-12 11:01:41
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا ساعت چارونیم منو میبری یا شیش
+
+#158
+Type	: Incoming
+Date	: 2019-06-12 04:49:56
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يك قسط از قرارداد 26533-1162-2197 با شماره كارت 6280237064384585 بمبلغ 2532379 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديركرد نسبت به پرداخت آن اقدام نماييد.
+
+#159
+Type	: Incoming
+Date	: 2019-06-09 10:51:25
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: مرررسی پدر عزززیزم میبینم
+
+#160
+Type	: Incoming
+Date	: 2019-06-08 16:23:52
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: ۳
+
+#161
+Type	: Incoming
+Date	: 2019-06-08 16:23:48
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بزنید ۴
+
+#162
+Type	: Incoming
+Date	: 2019-06-08 15:27:38
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: من حاضرم پدر
+
+#163
+Type	: Incoming
+Date	: 2019-06-07 03:47:02
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 با شماره كارت 6280237064384411 جمعا بمبلغ 3860320 ريال نزد شعبه قدس اراك تا تاريخ 98/03/17 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#164
+Type	: Incoming
+Date	: 2019-06-05 11:40:27
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا با مامانجون اینا داریم میریم بیرون فککنم طرفا شازند
+
+#165
+Type	: Incoming
+Date	: 2019-06-03 02:58:00
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: مشتري گرامي با سلام، نظر به عدم پرداخت اقساط در سررسيد مربوط به تسهيلات شماره 6303813554000 دريافتي از شعبه 2872 بانک ملي ايران، نسبت به واريز اقساط، حداکثر ظرف مدت 10 روز اقدام فرماييد.
+
+#166
+Type	: Incoming
+Date	: 2019-06-02 10:18:03
+Address	: 985000489376000
+Status	: NOT_RECEIVED
+Message	: دانش آموخته گرامی آقای / خانم وحيد خاکباز با سلام به آگاهی می رساند تعداد 2 قسط از بدهی شما جمعا به مبلغ 962840 ریال ( اقساط و جریمه ) معوق گردیده است. پرداخت از طریق آدرس bp.swf.ir
+
+#167
+Type	: Incoming
+Date	: 2019-05-30 14:35:51
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: کجایی بابا
+
+#168
+Type	: Incoming
+Date	: 2019-05-30 13:49:48
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: فرصت استثنايي بخشودگي سود و جرائم بانک مسکن مشتري گرامي وحيد خاكباز با مراجعه به شعبه قدس اراك و واريز باقيمانده اصل تسهيلات دريافتي خود از بخشودگي سود و جرائم بهره مند خواهيد شد.در غير اين صورت اقدامات لازم عليه شما، ضامنين و وثايق موجود صورت ميپذيرد.
+
+#169
+Type	: Incoming
+Date	: 2019-05-30 10:47:13
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي از پرداخت شما متشکريم شماره تسهيلات :6303813554000 مبلغ:2,900,000 تاريخ: 13980309 ساعت: 15.16.54
+
+#170
+Type	: Incoming
+Date	: 2019-05-30 10:46:55
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:2,900,000- حساب:17009 مانده:45,059 0309-15:16
+
+#171
+Type	: Incoming
+Date	: 2019-05-30 10:45:59
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي از پرداخت شما متشکريم شماره تسهيلات :6302678765006 مبلغ:3,615,000 تاريخ: 13980309 ساعت: 15.15.27
+
+#172
+Type	: Incoming
+Date	: 2019-05-30 10:45:28
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:3,615,000- حساب:17009 مانده:2,945,059 0309-15:15
+
+#173
+Type	: Incoming
+Date	: 2019-05-30 09:29:38
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:10,005,000- حساب:17009 مانده:6,560,059 0309-13:59
+
+#174
+Type	: Incoming
+Date	: 2019-05-30 09:27:03
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:355,000- حساب:17009 مانده:16,565,059 0309-13:56
+
+#175
+Type	: Incoming
+Date	: 2019-05-30 09:26:13
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:360,000- حساب:17009 مانده:16,920,059 0309-13:56
+
+#176
+Type	: Incoming
+Date	: 2019-05-30 09:23:17
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي خودپرداز:2,000,000- حساب:17009 مانده:17,280,059 0309-13:53
+
+#177
+Type	: Incoming
+Date	: 2019-05-30 08:37:32
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي حقوق:17,679,515+ حساب:17009 مانده:19,280,059 0309-13:07
+
+#178
+Type	: Incoming
+Date	: 2019-05-30 03:00:32
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: مشتري گرامي با سلام، نظر به عدم پرداخت اقساط در سررسيد مربوط به تسهيلات شماره 6302678765006 دريافتي از شعبه 2872 بانک ملي ايران، نسبت به واريز اقساط، حداکثر ظرف مدت 10 روز اقدام فرماييد.
+
+#179
+Type	: Incoming
+Date	: 2019-05-29 17:28:27
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: شب بخیر پدر عزیزم♡
+
+#180
+Type	: Outgoing
+Date	: 2019-05-29 17:26:28
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: خوابیدم.شب بخیر
+
+#181
+Type	: Outgoing
+Date	: 2019-05-28 08:34:49
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه
+
+#182
+Type	: Incoming
+Date	: 2019-05-28 08:25:07
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا من دستم خیلی درد میکنه بعدازظهر بیا بریم دکتر یه عکس بندازه ازش
+
+#183
+Type	: Outgoing
+Date	: 2019-05-28 06:38:09
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: جود نیست
+
+#184
+Type	: Incoming
+Date	: 2019-05-28 06:37:51
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: پرسیدی
+
+#185
+Type	: Incoming
+Date	: 2019-05-28 06:13:16
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اگه سه شنبه یعنی ۱۳برید من دوروز وقت دارم که بتونم بخونم..
+
+#186
+Type	: Incoming
+Date	: 2019-05-27 17:22:30
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اومد..
+
+#187
+Type	: Incoming
+Date	: 2019-05-27 17:21:16
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: برقامون رفت
+
+#188
+Type	: Outgoing
+Date	: 2019-05-26 18:03:25
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: اره
+
+#189
+Type	: Incoming
+Date	: 2019-05-26 17:54:39
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بهتری
+
+#190
+Type	: Incoming
+Date	: 2019-05-24 19:53:16
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: صبح اصلا منو بیدار نکن فرداشب کلا باید بیدار باشم...سحرم بیدارم نکن سیرم...
+
+#191
+Type	: Incoming
+Date	: 2019-05-24 18:48:57
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه.
+
+#192
+Type	: Outgoing
+Date	: 2019-05-24 18:48:37
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: نه
+
+#193
+Type	: Incoming
+Date	: 2019-05-24 18:48:20
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: میای؟؟¿
+
+#194
+Type	: Incoming
+Date	: 2019-05-24 08:55:32
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي كارمزد:1,206- حساب:15001 مانده:86,804 0303-13:25
+
+#195
+Type	: Incoming
+Date	: 2019-05-24 07:49:38
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: مادرجون خونه ب م اونجا درس بخونم امیرعلی سروصدا میکنه.
+
+#196
+Type	: Outgoing
+Date	: 2019-05-23 20:51:11
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: نه نمی خواد
+
+#197
+Type	: Incoming
+Date	: 2019-05-23 20:50:28
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: صبح بیدارت میکنم تا شربتتو بخوری
+
+#198
+Type	: Incoming
+Date	: 2019-05-23 10:22:32
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: قربانت
+
+#199
+Type	: Outgoing
+Date	: 2019-05-23 10:21:28
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: الان میخورم مجکر
+
+#200
+Type	: Incoming
+Date	: 2019-05-23 10:11:15
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: پدر جان شربت فراموش نشود
+
+#201
+Type	: Incoming
+Date	: 2019-05-22 22:20:19
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1398/03/01 19:38:34 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :59 مانده معوق :721922 مانده جريمه :12698 شماره پيگيري:817223
+
+#202
+Type	: Incoming
+Date	: 2019-05-22 21:56:32
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1398/03/01 19:39:38 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :60 مانده معوق :0 مانده جريمه :0 شماره پيگيري:826882
+
+#203
+Type	: Incoming
+Date	: 2019-05-22 21:25:28
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1398/03/01 19:39:07 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :59 مانده معوق :1181293 مانده جريمه :23725 شماره پيگيري:822858
+
+#204
+Type	: Incoming
+Date	: 2019-05-22 16:42:12
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابااا لطفااا ببرم امشب بعد تا اخر هفته دیگه نمیرم دیگه
+
+#205
+Type	: Outgoing
+Date	: 2019-05-22 09:30:13
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: میخورم
+
+#206
+Type	: Incoming
+Date	: 2019-05-22 09:27:48
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: یکساعت دیگه شربتات یادت نره
+
+#207
+Type	: Incoming
+Date	: 2019-05-21 17:29:10
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي سررسيد قسط شماره وام:6303813554000 مبلغ:5,875,000 تاريخ سررسيد:1398-03-02
+
+#208
+Type	: Outgoing
+Date	: 2019-05-21 15:23:01
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: امدم
+
+#209
+Type	: Incoming
+Date	: 2019-05-21 15:22:40
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: پدر جان چرا تشریف نمیارید منزل
+
+#210
+Type	: Incoming
+Date	: 2019-05-20 18:46:18
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: پدر جان بزنید عصر جدید
+
+#211
+Type	: Incoming
+Date	: 2019-05-19 23:35:33
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا صبح هر وقت بیدار شدی منم حتما بیدار کن
+
+#212
+Type	: Incoming
+Date	: 2019-05-19 03:04:46
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:7,500- حساب:15001 مانده:87,529 0229-07:34
+
+#213
+Type	: Incoming
+Date	: 2019-05-18 19:36:50
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: سحر بیدارم نکن خوردم
+
+#214
+Type	: Incoming
+Date	: 2019-05-18 09:21:51
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بابا اگه ساعت چار خونه بودی حتما منو بیدار کن..
+
+#215
+Type	: Incoming
+Date	: 2019-05-18 04:33:29
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي سررسيد قسط شماره وام:6302678765006 مبلغ:3,615,000 تاريخ سررسيد:1398-02-29
+
+#216
+Type	: Incoming
+Date	: 2019-05-16 13:41:54
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:30,000- حساب:15001 مانده:95,029 0226-18:11
+
+#217
+Type	: Incoming
+Date	: 2019-05-16 13:33:30
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: باشه
+
+#218
+Type	: Outgoing
+Date	: 2019-05-16 13:33:10
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: هفت و نيم
+
+#219
+Type	: Incoming
+Date	: 2019-05-16 13:32:03
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: خونه خودمون یساعت پیش اومدم
+
+#220
+Type	: Outgoing
+Date	: 2019-05-16 13:31:36
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: کجایی ؟
+
+#221
+Type	: Incoming
+Date	: 2019-05-16 13:30:33
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: سلام بابا ساعت چند میخوایم بریم
+
+#222
+Type	: Incoming
+Date	: 2019-05-15 17:45:13
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:43,000- حساب:15001 مانده:125,029 0225-22:15
+
+#223
+Type	: Incoming
+Date	: 2019-05-15 14:20:13
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:60,000- حساب:15001 مانده:168,029 0225-18:50
+
+#224
+Type	: Incoming
+Date	: 2019-05-15 13:54:24
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:5,000- حساب:15001 مانده:228,029 0225-18:24
+
+#225
+Type	: Incoming
+Date	: 2019-05-14 16:40:26
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:10,000- حساب:15001 مانده:233,029 0224-21:10
+
+#226
+Type	: Incoming
+Date	: 2019-05-14 16:39:57
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:20,000- حساب:15001 مانده:243,029 0224-21:09
+
+#227
+Type	: Incoming
+Date	: 2019-05-12 15:40:34
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:1,005,000- حساب:15001 مانده:263,029 0222-20:10
+
+#228
+Type	: Incoming
+Date	: 2019-05-12 14:30:36
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:196,000- حساب:15001 مانده:1,268,029 0222-19:00
+
+#229
+Type	: Incoming
+Date	: 2019-05-12 14:16:46
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:800,000- حساب:15001 مانده:1,464,029 0222-18:46
+
+#230
+Type	: Incoming
+Date	: 2019-05-12 14:02:00
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:130,000- حساب:15001 مانده:2,264,029 0222-18:31
+
+#231
+Type	: Incoming
+Date	: 2019-05-12 04:08:54
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يك قسط از قرارداد 26533-1162-2197 با شماره كارت 6280237064384585 بمبلغ 2529063 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديركرد نسبت به پرداخت آن اقدام نماييد.
+
+#232
+Type	: Incoming
+Date	: 2019-05-11 15:57:14
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:100,000- حساب:15001 مانده:2,394,029 0221-20:27
+
+#233
+Type	: Incoming
+Date	: 2019-05-11 15:46:09
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:25,000- حساب:15001 مانده:2,494,029 0221-20:14
+
+#234
+Type	: Incoming
+Date	: 2019-05-11 12:46:01
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:17,000,000- حساب:17009 مانده:1,600,544 0221-17:15
+
+#235
+Type	: Incoming
+Date	: 2019-05-11 05:47:49
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: مشتري گرامي: با مراجعه به سايت https://bmi.ir/landing/60 نسبت به نصب برنامه 60 (رمز يک بار مصرف) اقدام نماييد.بانک ملي ايران
+
+#236
+Type	: Incoming
+Date	: 2019-05-10 07:18:05
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:110,000- حساب:15001 مانده:2,519,029 0220-11:47
+
+#237
+Type	: Incoming
+Date	: 2019-05-09 14:10:21
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي برداشت:1,927,600- حساب:15001 مانده:2,629,029 0219-18:40
+
+#238
+Type	: Incoming
+Date	: 2019-05-09 07:05:02
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:4,000,000+ حساب:15001 مانده:4,556,629 0219-11:34
+
+#239
+Type	: Incoming
+Date	: 2019-05-08 15:48:44
+Address	: 98700717
+Status	: NOT_RECEIVED
+Message	: بانک ملي انتقال:500,000+ حساب:15001 مانده:556,629 0218-20:18
+
+#240
+Type	: Incoming
+Date	: 2019-05-07 13:30:53
+Address	: +989918694978
+Status	: NOT_RECEIVED
+Message	: بود
+
+#241
+Type	: Incoming
+Date	: 2019-05-07 04:22:11
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 با شماره كارت 6280237064384411 جمعا بمبلغ 3810314 ريال نزد شعبه قدس اراك تا تاريخ 98/02/17 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#242
+Type	: Incoming
+Date	: 2019-04-23 06:49:37
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1398/02/03 11:18:33 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :59 مانده معوق :0 مانده جريمه :0 شماره پيگيري:784752
+
+#243
+Type	: Incoming
+Date	: 2019-04-23 06:48:58
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1398/02/03 11:18:03 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :58 مانده معوق :1133315 مانده جريمه :22769 شماره پيگيري:780831
+
+#244
+Type	: Incoming
+Date	: 2019-04-23 06:48:07
+Address	: 98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1398/02/03 11:17:09 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :58 مانده معوق :696436 مانده جريمه :11970 شماره پيگيري:773912
+
+#245
+Type	: Incoming
+Date	: 2019-04-17 03:59:16
+Address	: 98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#246
+Type	: Incoming
+Date	: 2019-04-10 03:59:13
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#247
+Type	: Incoming
+Date	: 2019-04-03 04:01:13
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#248
+Type	: Incoming
+Date	: 2019-03-27 04:05:11
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#249
+Type	: Incoming
+Date	: 2019-03-14 13:34:19
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/12/23 17:03:38 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :58 مانده معوق :0 مانده جريمه :0 شماره پيگيري:837703
+
+#250
+Type	: Incoming
+Date	: 2019-03-14 13:33:07
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/12/23 17:02:35 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :57 مانده معوق :1085321 مانده جريمه :14872 شماره پيگيري:835342
+
+#251
+Type	: Incoming
+Date	: 2019-03-14 13:32:35
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1397/12/23 17:02:01 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :57 مانده معوق :671882 مانده جريمه :5488 شماره پيگيري:829946
+
+#252
+Type	: Incoming
+Date	: 2019-03-11 05:23:17
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يك قسط از قرارداد 26533-1162-2197 با شماره كارت 6280237064384585 بمبلغ 2531666 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديركرد نسبت به پرداخت آن اقدام نماييد.
+
+#253
+Type	: Incoming
+Date	: 2019-03-06 04:44:52
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 با شماره كارت 6280237064384411 جمعا بمبلغ 3723209 ريال نزد شعبه قدس اراك تا تاريخ 97/12/15 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#254
+Type	: Incoming
+Date	: 2019-03-06 04:43:39
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 11639-4691-2197 با شماره كارت 6280237064384296 جمعا بمبلغ 3063314 ريال نزد شعبه قدس اراك تا تاريخ 97/12/15 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#255
+Type	: Incoming
+Date	: 2019-02-20 13:57:02
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1397/12/01 17:26:08 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :56 مانده معوق :672232 مانده جريمه :10874 شماره پيگيري:259884
+
+#256
+Type	: Incoming
+Date	: 2019-02-20 13:56:00
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/12/01 17:25:06 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :56 مانده معوق :1053635 مانده جريمه :19022 شماره پيگيري:252772
+
+#257
+Type	: Incoming
+Date	: 2019-02-20 13:54:37
+Address	: +98100025
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/12/01 17:23:57 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :57 مانده معوق :0 مانده جريمه :0 شماره پيگيري:243685
+
+#258
+Type	: Incoming
+Date	: 2019-02-19 05:09:13
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: مشتری گرامی، ضمن یادآوری تاریخ سررسید پرداخت قرارداد تسهیلات شماره 933300055 شعبه 14000 مفتخریم که بانک تجارت را انتخاب نموده اید.
+
+#259
+Type	: Incoming
+Date	: 2019-02-14 11:50:09
+Address	: +9830003001
+Status	: NOT_RECEIVED
+Message	: برای تایید شماره موبایل کد 47356 را در سایت sso.iau.ir وارد کنید
+
+#260
+Type	: Incoming
+Date	: 2019-01-27 05:00:14
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#261
+Type	: Incoming
+Date	: 2019-01-20 14:56:41
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1397/10/30 18:26:09 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :55 مانده معوق :650027 مانده جريمه :10045 شماره پيگيري:292619
+
+#262
+Type	: Incoming
+Date	: 2019-01-20 14:56:40
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1397/10/30 18:25:37 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :55 مانده معوق :1010820 مانده جريمه :17455 شماره پيگيري:288335
+
+#263
+Type	: Incoming
+Date	: 2019-01-20 14:56:19
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/10/30 18:25:11 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :56 مانده معوق :0 مانده جريمه :0 شماره پيگيري:285333
+
+#264
+Type	: Incoming
+Date	: 2019-01-18 05:00:25
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#265
+Type	: Incoming
+Date	: 2019-01-16 22:25:52
+Address	: 98110321
+Status	: NOT_RECEIVED
+Message	: قبض بدهي عوارض ورود به محدوده طرح ترافيک و زوج يا فرد پلاک: 27د281 - ايران47 مبلغ بدهي پاييز 97 : 240000ريال ش ق: 2119744602364 ش پ: 24071245 پرداخت در کليه درگاه هاي بانک هاي متصل به شتاب اطلاعات در my.tehran.ir يا #3*3*137*
+
+#266
+Type	: Incoming
+Date	: 2019-01-11 05:06:20
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يك قسط از قرارداد 26533-1162-2197 با شماره كارت 6280237064384585 بمبلغ 2532861 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديركرد نسبت به پرداخت آن اقدام نماييد.
+
+#267
+Type	: Incoming
+Date	: 2019-01-11 04:58:44
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#268
+Type	: Incoming
+Date	: 2019-01-06 05:17:56
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 11639-4691-2197 با شماره كارت 6280237064384296 جمعا بمبلغ 3035796 ريال نزد شعبه قدس اراك تا تاريخ 97/10/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#269
+Type	: Incoming
+Date	: 2019-01-06 05:17:54
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 با شماره كارت 6280237064384411 جمعا بمبلغ 3649141 ريال نزد شعبه قدس اراك تا تاريخ 97/10/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#270
+Type	: Incoming
+Date	: 2019-01-04 04:58:02
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#271
+Type	: Incoming
+Date	: 2018-12-25 09:24:28
+Address	: +98200080
+Status	: NOT_RECEIVED
+Message	: بانک ملی ورود به سامانه بام 97/10/4 12:54
+
+#272
+Type	: Incoming
+Date	: 2018-12-25 09:20:34
+Address	: +98200080
+Status	: NOT_RECEIVED
+Message	: بانک ملی ورود به سامانه بام 97/10/4 12:50
+
+#273
+Type	: Incoming
+Date	: 2018-12-25 09:18:25
+Address	: +98200080
+Status	: NOT_RECEIVED
+Message	: * بانک ملی ایران * مشتری گرامی شناسه فعال سازی عضویت شما 60784 میباشد. لطفا از قراردادن این شناسه در اختیار افراد ناشناس خودداری کنید.
+
+#274
+Type	: Incoming
+Date	: 2018-12-19 22:29:28
+Address	: 98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/09/28 19:15:20 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :55 مانده معوق :0 مانده جريمه :0 شماره پيگيري:749037
+
+#275
+Type	: Incoming
+Date	: 2018-12-19 21:39:20
+Address	: 98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1397/09/28 19:16:12 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :54 مانده معوق :629503 مانده جريمه :9279 شماره پيگيري:754414
+
+#276
+Type	: Incoming
+Date	: 2018-12-19 21:38:53
+Address	: 98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/09/28 19:15:44 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :54 مانده معوق :979837 مانده جريمه :16131 شماره پيگيري:751293
+
+#277
+Type	: Incoming
+Date	: 2018-12-19 13:20:10
+Address	: MGOV
+Status	: NOT_RECEIVED
+Message	: صحت اطلاعات وسیله نقلیه شما مورد تایید است.
+
+#278
+Type	: Incoming
+Date	: 2018-12-19 13:19:55
+Address	: MGOV
+Status	: NOT_RECEIVED
+Message	: درخواست شما ثبت و در حال بررسی است، از صبر و شکیبایی شما سپاسگزاریم.
+
+#279
+Type	: Incoming
+Date	: 2018-12-19 13:19:26
+Address	: MGOV
+Status	: NOT_RECEIVED
+Message	: اطلاعات هویتی شما توسط ثبت احوال تایید شد.
+
+#280
+Type	: Incoming
+Date	: 2018-12-19 13:18:48
+Address	: MGOV
+Status	: NOT_RECEIVED
+Message	: کد فعال سازی دولت همراه: 9694 MGOV activation code: 9694
+
+#281
+Type	: Incoming
+Date	: 2018-12-19 04:59:42
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#282
+Type	: Incoming
+Date	: 2018-12-12 05:22:38
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#283
+Type	: Incoming
+Date	: 2018-12-07 04:44:29
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 11639-4691-2197 با شماره كارت 6280237064384296 جمعا بمبلغ 3016383 ريال نزد شعبه قدس اراك تا تاريخ 97/09/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#284
+Type	: Incoming
+Date	: 2018-12-05 04:58:37
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#285
+Type	: Incoming
+Date	: 2018-11-28 05:00:11
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#286
+Type	: Incoming
+Date	: 2018-11-22 11:25:51
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1397/09/01 14:51:55 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :53 مانده معوق :941080 مانده جريمه :16406 شماره پيگيري:583899
+
+#287
+Type	: Incoming
+Date	: 2018-11-22 11:23:00
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/09/01 14:51:31 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :54 مانده معوق :0 مانده جريمه :0 شماره پيگيري:582240
+
+#288
+Type	: Incoming
+Date	: 2018-11-22 11:22:21
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1397/09/01 14:51:02 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :53 مانده معوق :610641 مانده جريمه :9617 شماره پيگيري:580587
+
+#289
+Type	: Incoming
+Date	: 2018-11-21 05:12:23
+Address	: +98100080911000
+Status	: NOT_RECEIVED
+Message	: جناب آقای وحيد خاكباز نظر به عدم ایفای تعهدات قرارداد شماره 933300055، خواهشمند است بلافاصله به شعبه 14000 بانک تجارت مراجعه فرمایید.
+
+#290
+Type	: Incoming
+Date	: 2018-11-12 06:43:45
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يك قسط از قرارداد 26533-1162-2197 با شماره كارت 6280237064384585 بمبلغ 2534028 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديركرد نسبت به پرداخت آن اقدام نماييد.
+
+#291
+Type	: Incoming
+Date	: 2018-11-09 03:28:55
+Address	: 98110321
+Status	: NOT_RECEIVED
+Message	: مالک محترم خودروي47-281د27،شما در تاريخ1397/08/06بدون پرداخت عوارض مربوطه وارد محدوده طرح شده ايد و اين عوارض به حساب بدهي شما در شهرداري منظور شد اطلاعات بيشتر#3*3*137*ياmy.tehran.ir
+
+#292
+Type	: Incoming
+Date	: 2018-11-07 06:05:30
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 با شماره كارت 6280237064384411 جمعا بمبلغ 3576871 ريال نزد شعبه قدس اراك تا تاريخ 97/08/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#293
+Type	: Incoming
+Date	: 2018-11-07 06:04:25
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 11639-4691-2197 با شماره كارت 6280237064384296 جمعا بمبلغ 2994593 ريال نزد شعبه قدس اراك تا تاريخ 97/08/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#294
+Type	: Incoming
+Date	: 2018-10-23 15:05:50
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1397/08/01 18:34:48 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :53 مانده معوق :0 مانده جريمه :0 شماره پيگيري:618425
+
+#295
+Type	: Incoming
+Date	: 2018-10-23 15:04:59
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/08/01 18:34:25 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :52 مانده معوق :909675 مانده جريمه :15751 شماره پيگيري:615592
+
+#296
+Type	: Incoming
+Date	: 2018-10-23 15:04:41
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1397/08/01 18:33:56 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :52 مانده معوق :589428 مانده جريمه :9220 شماره پيگيري:612767
+
+#297
+Type	: Incoming
+Date	: 2018-09-16 20:43:36
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1397/06/25 19:54:20 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :51 مانده معوق :558619 مانده جريمه :7033 شماره پيگيري:462424
+
+#298
+Type	: Incoming
+Date	: 2018-09-16 20:24:31
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/06/25 19:53:57 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :51 مانده معوق :868740 مانده جريمه :12346 شماره پيگيري:460182
+
+#299
+Type	: Incoming
+Date	: 2018-09-16 20:12:06
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1397/06/25 19:53:32 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :52 مانده معوق :0 مانده جريمه :0 شماره پيگيري:457938
+
+#300
+Type	: Incoming
+Date	: 2018-08-20 20:44:11
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1397/05/29 19:39:49 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :50 مانده معوق :534901 مانده جريمه :7855 شماره پيگيري:080940
+
+#301
+Type	: Incoming
+Date	: 2018-08-20 20:34:14
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1397/05/29 19:38:55 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :51 مانده معوق :0 مانده جريمه :0 شماره پيگيري:074607
+
+#302
+Type	: Incoming
+Date	: 2018-08-20 20:14:28
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/05/29 19:39:22 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :50 مانده معوق :835748 مانده جريمه :13596 شماره پيگيري:077659
+
+#303
+Type	: Incoming
+Date	: 2018-07-23 04:16:33
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/05/01 08:36:54 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :50 مانده معوق :0 مانده جريمه :0 شماره پيگيري:819011
+
+#304
+Type	: Incoming
+Date	: 2018-07-23 04:13:37
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1397/05/01 08:36:24 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :49 مانده معوق :797486 مانده جريمه :13724 شماره پيگيري:817079
+
+#305
+Type	: Incoming
+Date	: 2018-07-23 04:09:43
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1397/05/01 08:35:46 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :49 مانده معوق :506310 مانده جريمه :7939 شماره پيگيري:814754
+
+#306
+Type	: Incoming
+Date	: 2018-06-14 21:07:06
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/03/24 20:11:02 از کارت:6037997445456156 به کارت:6280237064384411 تعداد اقساط پرداختي :48 مانده معوق :766653 مانده جريمه :9942 شماره پيگيري:992886
+
+#307
+Type	: Incoming
+Date	: 2018-06-14 21:05:43
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1397/03/24 20:11:33 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :49 مانده معوق :0 مانده جريمه :0 شماره پيگيري:995378
+
+#308
+Type	: Incoming
+Date	: 2018-06-14 20:18:15
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1397/03/24 20:11:58 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :48 مانده معوق :485259 مانده جريمه :5576 شماره پيگيري:998339
+
+#309
+Type	: Incoming
+Date	: 2018-05-22 14:34:48
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1397/03/01 17:33:15 از کارت:6037997445456156 به کارت:6280237064384296 تعداد اقساط پرداختي :47 مانده معوق :464108 مانده جريمه :7111 شماره پيگيري:960693
+
+#310
+Type	: Incoming
+Date	: 2018-05-22 13:02:59
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/03/01 17:32:18 از کارت:6037997445456156 به کارت:6280237064384585 تعداد اقساط پرداختي :48 مانده معوق :0 مانده جريمه :0 شماره پيگيري:956588
+
+#311
+Type	: Incoming
+Date	: 2018-04-20 07:00:54
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1397/01/31 11:30:10 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :46 مانده معوق :443891 مانده جريمه :6356 شماره پيگيري:502343
+
+#312
+Type	: Incoming
+Date	: 2018-04-20 07:00:07
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1397/01/31 11:29:36 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :46 مانده معوق :707254 مانده جريمه :11046 شماره پيگيري:499990
+
+#313
+Type	: Incoming
+Date	: 2018-04-20 06:59:29
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1397/01/31 11:29:01 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :47 مانده معوق :0 مانده جريمه :0 شماره پيگيري:498544
+
+#314
+Type	: Incoming
+Date	: 2018-03-17 09:16:57
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/12/26 12:43:45 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :45 مانده معوق :416152 مانده جريمه :4768 شماره پيگيري:274582
+
+#315
+Type	: Incoming
+Date	: 2018-03-17 09:16:49
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/12/26 12:43:14 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :45 مانده معوق :670654 مانده جريمه :8568 شماره پيگيري:270932
+
+#316
+Type	: Incoming
+Date	: 2018-03-17 09:13:48
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/12/26 12:42:47 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :46 مانده معوق :0 مانده جريمه :0 شماره پيگيري:268090
+
+#317
+Type	: Incoming
+Date	: 2018-03-11 06:55:01
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يک قسط از قرارداد 26533-1162-2197 بمبلغ 2487987 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديرکرد نسبت به پرداخت آن اقدام نماييد.
+
+#318
+Type	: Incoming
+Date	: 2018-03-10 09:48:22
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانك مسكن برداشت 410007925374 مبلغ:100,000 زمان:1396/12/19-11:13 مانده:984,101 شرح:کارمزدآبونمان خدمات پيامکي سال96
+
+#319
+Type	: Incoming
+Date	: 2018-03-06 05:04:44
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 11639-4691-2197 جمعا بمبلغ 2793331 ريال نزد شعبه قدس اراك تا تاريخ 96/12/15 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#320
+Type	: Incoming
+Date	: 2018-03-06 05:03:35
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 جمعا بمبلغ 3298476 ريال نزد شعبه قدس اراك تا تاريخ 96/12/15 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#321
+Type	: Incoming
+Date	: 2018-02-20 10:44:53
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/12/01 14:14:17 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :44 مانده معوق :641353 مانده جريمه :9889 شماره پيگيري:552999
+
+#322
+Type	: Incoming
+Date	: 2018-02-20 10:44:33
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/12/01 14:15:07 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :44 مانده معوق :395076 مانده جريمه :5589 شماره پيگيري:555292
+
+#323
+Type	: Incoming
+Date	: 2018-02-20 10:43:45
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/12/01 14:13:52 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :45 مانده معوق :0 مانده جريمه :0 شماره پيگيري:551747
+
+#324
+Type	: Incoming
+Date	: 2018-02-18 17:03:58
+Address	: +9830003001
+Status	: NOT_RECEIVED
+Message	: وحید خاکباز از طریق سامانه متمرکز حقوق دانشگاه آزاد hesabdar.iau.ir شماره حساب خود را تایید نمایید. https://t.me/iauSalary
+
+#325
+Type	: Incoming
+Date	: 2018-02-10 07:51:30
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يک قسط از قرارداد 26533-1162-2197 بمبلغ 2478949 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديرکرد نسبت به پرداخت آن اقدام نماييد.
+
+#326
+Type	: Incoming
+Date	: 2018-02-05 06:06:32
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 11639-4691-2197 جمعا بمبلغ 2766905 ريال نزد شعبه قدس اراك تا تاريخ 96/11/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#327
+Type	: Incoming
+Date	: 2018-02-05 06:06:29
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 جمعا بمبلغ 3263267 ريال نزد شعبه قدس اراك تا تاريخ 96/11/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#328
+Type	: Incoming
+Date	: 2018-01-21 14:32:43
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/11/01 18:27:13 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :43 مانده معوق :605265 مانده جريمه :9197 شماره پيگيري:635022
+
+#329
+Type	: Incoming
+Date	: 2018-01-21 14:26:14
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/11/01 18:26:49 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :44 مانده معوق :0 مانده جريمه :0 شماره پيگيري:632567
+
+#330
+Type	: Incoming
+Date	: 2018-01-21 14:26:00
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/11/01 18:26:24 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :43 مانده معوق :367735 مانده جريمه :5130 شماره پيگيري:630084
+
+#331
+Type	: Incoming
+Date	: 2018-01-11 07:10:28
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يک قسط از قرارداد 26533-1162-2197 بمبلغ 2468704 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديرکرد نسبت به پرداخت آن اقدام نماييد.
+
+#332
+Type	: Incoming
+Date	: 2018-01-06 04:43:24
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 جمعا بمبلغ 3226787 ريال نزد شعبه قدس اراك تا تاريخ 96/10/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#333
+Type	: Incoming
+Date	: 2018-01-06 04:42:40
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 11639-4691-2197 جمعا بمبلغ 2739345 ريال نزد شعبه قدس اراك تا تاريخ 96/10/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#334
+Type	: Incoming
+Date	: 2017-12-21 12:35:37
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/09/30 12:57:23 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :43 مانده معوق :0 مانده جريمه :0 شماره پيگيري:323032
+
+#335
+Type	: Incoming
+Date	: 2017-12-21 12:14:49
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/09/30 12:56:51 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :42 مانده معوق :569749 مانده جريمه :8205 شماره پيگيري:320004
+
+#336
+Type	: Incoming
+Date	: 2017-12-21 12:03:44
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/09/30 12:56:17 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :42 مانده معوق :340851 مانده جريمه :4498 شماره پيگيري:316837
+
+#337
+Type	: Incoming
+Date	: 2017-12-12 07:48:52
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز يک قسط از قرارداد 26533-1162-2197 بمبلغ 2459806 ريال نزد شعبه قدس اراك معوق گرديده است. بمنظور عدم تعلق خسارت ديرکرد نسبت به پرداخت آن اقدام نماييد.
+
+#338
+Type	: Incoming
+Date	: 2017-12-07 05:21:09
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 11639-4691-2197 جمعا بمبلغ 2713593 ريال نزد شعبه قدس اراك تا تاريخ 96/09/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#339
+Type	: Incoming
+Date	: 2017-12-07 05:20:17
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز دو قسط از قرارداد 23881-2729-2197 جمعا بمبلغ 3192390 ريال نزد شعبه قدس اراك تا تاريخ 96/09/16 پرداخت نگرديده است.جهت جلوگيري از رجوع به ضامنين و ساير ظرفيتهاي قانوني نسبت به پرداخت اقساط خود اقدام نماييد.
+
+#340
+Type	: Incoming
+Date	: 2017-11-25 21:30:48
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/09/04 19:08:10 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :42 مانده معوق :0 مانده جريمه :0 شماره پيگيري:321807
+
+#341
+Type	: Incoming
+Date	: 2017-11-25 21:10:09
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/09/04 19:08:37 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :41 مانده معوق :536270 مانده جريمه :9136 شماره پيگيري:323911
+
+#342
+Type	: Incoming
+Date	: 2017-11-25 21:03:59
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/09/04 19:09:07 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :41 مانده معوق :315723 مانده جريمه :5008 شماره پيگيري:326424
+
+#343
+Type	: Incoming
+Date	: 2017-10-25 21:43:26
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/08/03 19:02:25 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :41 مانده معوق :0 مانده جريمه :0 شماره پيگيري:750576
+
+#344
+Type	: Incoming
+Date	: 2017-10-25 21:33:09
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/08/03 19:02:48 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :40 مانده معوق :496048 مانده جريمه :8115 شماره پيگيري:752437
+
+#345
+Type	: Incoming
+Date	: 2017-10-25 21:05:44
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/08/03 19:03:15 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :40 مانده معوق :284405 مانده جريمه :4314 شماره پيگيري:754473
+
+#346
+Type	: Incoming
+Date	: 2017-10-02 21:32:50
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/07/10 20:09:16 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :39 مانده معوق :254690 مانده جريمه :5092 شماره پيگيري:581488
+
+#347
+Type	: Incoming
+Date	: 2017-10-02 21:09:34
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/07/10 20:08:48 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :39 مانده معوق :457554 مانده جريمه :9669 شماره پيگيري:579638
+
+#348
+Type	: Incoming
+Date	: 2017-10-02 21:08:14
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/07/10 20:08:17 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :40 مانده معوق :0 مانده جريمه :0 شماره پيگيري:577567
+
+#349
+Type	: Incoming
+Date	: 2017-08-22 21:09:09
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/05/31 19:46:19 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :38 مانده معوق :213843 مانده جريمه :2869 شماره پيگيري:434994
+
+#350
+Type	: Incoming
+Date	: 2017-08-22 21:03:26
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/05/31 19:45:08 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :39 مانده معوق :0 مانده جريمه :0 شماره پيگيري:429013
+
+#351
+Type	: Incoming
+Date	: 2017-08-22 20:53:14
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/05/31 19:45:53 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :38 مانده معوق :406918 مانده جريمه :5933 شماره پيگيري:432854
+
+#352
+Type	: Incoming
+Date	: 2017-08-02 09:31:40
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز مهلت پرداخت قسط قرارداد شماره 26533-1162-2197 به شماره کارت 6280237064384585 تا تاريخ 96/05/16 ميباشد.آيا ميدانيد با پرداخت زودتر از موعد قسط خود مشمول جايزه خوش حسابي خواهيد شد؟
+
+#353
+Type	: Incoming
+Date	: 2017-07-28 04:01:17
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز مهلت پرداخت قسط قرارداد شماره 23881-2729-2197 به شماره کارت 6280237064384411 تا تاريخ 96/05/11 ميباشد.آيا ميدانيد با پرداخت زودتر از موعد قسط خود مشمول جايزه خوش حسابي خواهيد شد؟
+
+#354
+Type	: Incoming
+Date	: 2017-07-28 04:01:14
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز مهلت پرداخت قسط قرارداد شماره 11639-4691-2197 به شماره کارت 6280237064384296 تا تاريخ 96/05/11 ميباشد.آيا ميدانيد با پرداخت زودتر از موعد قسط خود مشمول جايزه خوش حسابي خواهيد شد؟
+
+#355
+Type	: Incoming
+Date	: 2017-07-24 21:51:41
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/05/02 20:03:56 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :37 مانده معوق :188202 مانده جريمه :2566 شماره پيگيري:377601
+
+#356
+Type	: Incoming
+Date	: 2017-07-24 21:25:10
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/05/02 20:03:22 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :38 مانده معوق :0 مانده جريمه :0 شماره پيگيري:374724
+
+#357
+Type	: Incoming
+Date	: 2017-07-24 21:21:26
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/05/02 20:02:53 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :37 مانده معوق :372981 مانده جريمه :5778 شماره پيگيري:372067
+
+#358
+Type	: Incoming
+Date	: 2017-06-21 10:02:43
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/03/31 09:50:15 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :36 مانده معوق :162749 مانده جريمه :2041 شماره پيگيري:471211
+
+#359
+Type	: Incoming
+Date	: 2017-06-21 05:24:46
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/03/31 09:51:12 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :36 مانده معوق :336707 مانده جريمه :4565 شماره پيگيري:475311
+
+#360
+Type	: Incoming
+Date	: 2017-06-21 05:24:21
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/03/31 09:50:42 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :37 مانده معوق :0 مانده جريمه :0 شماره پيگيري:473050
+
+#361
+Type	: Incoming
+Date	: 2017-05-17 09:46:21
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1396/02/27 13:52:55 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :35 مانده معوق :139143 مانده جريمه :1407 شماره پيگيري:140388
+
+#362
+Type	: Incoming
+Date	: 2017-05-17 09:45:47
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1396/02/27 13:52:30 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :36 مانده معوق :0 مانده جريمه :0 شماره پيگيري:138833
+
+#363
+Type	: Incoming
+Date	: 2017-05-17 09:44:36
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/02/27 13:51:00 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :35 مانده معوق :305391 مانده جريمه :3381 شماره پيگيري:133413
+
+#364
+Type	: Incoming
+Date	: 2017-05-01 06:16:57
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز مهلت پرداخت قسط قرارداد شماره 26533-1162-2197 به شماره کارت 6280237064384585 تا تاريخ 96/02/16 ميباشد.آيا ميدانيد با پرداخت زودتر از موعد قسط خود مشمول جايزه خوش حسابي خواهيد شد؟
+
+#365
+Type	: Incoming
+Date	: 2017-04-26 05:10:41
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز مهلت پرداخت قسط قرارداد شماره 23881-2729-2197 به شماره کارت 6280237064384411 تا تاريخ 96/02/11 ميباشد.آيا ميدانيد با پرداخت زودتر از موعد قسط خود مشمول جايزه خوش حسابي خواهيد شد؟
+
+#366
+Type	: Incoming
+Date	: 2017-04-26 05:09:52
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن مشتري گرامي وحيد خاكباز مهلت پرداخت قسط قرارداد شماره 11639-4691-2197 به شماره کارت 6280237064384296 تا تاريخ 96/02/11 ميباشد.آيا ميدانيد با پرداخت زودتر از موعد قسط خود مشمول جايزه خوش حسابي خواهيد شد؟
+
+#367
+Type	: Incoming
+Date	: 2017-04-20 11:31:40
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1396/01/31 13:27:57 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :34 مانده معوق :121216 مانده جريمه :1492 شماره پيگيري:084434
+
+#368
+Type	: Incoming
+Date	: 2017-04-20 11:22:26
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1396/01/31 13:28:32 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :34 مانده معوق :280480 مانده جريمه :3673 شماره پيگيري:086780
+
+#369
+Type	: Incoming
+Date	: 2017-04-20 09:02:33
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1396/01/31 13:29:07 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :35 مانده معوق :0 مانده جريمه :0 شماره پيگيري:089270
+
+#370
+Type	: Incoming
+Date	: 2017-03-14 09:24:50
+Address	: +989181602022
+Status	: NOT_RECEIVED
+Message	: 6280231434515929بهبود صوفی
+
+#371
+Type	: Incoming
+Date	: 2017-03-11 14:45:19
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/12/21 18:08:21 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :33 مانده معوق :260228 مانده جريمه :1894 شماره پيگيري:962030
+
+#372
+Type	: Incoming
+Date	: 2017-03-11 14:40:56
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/12/21 18:07:47 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :34 مانده معوق :0 مانده جريمه :0 شماره پيگيري:959524
+
+#373
+Type	: Incoming
+Date	: 2017-03-11 14:40:18
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1395/12/21 18:07:06 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :33 مانده معوق :108041 مانده جريمه :871 شماره پيگيري:956789
+
+#374
+Type	: Incoming
+Date	: 2017-02-18 13:56:10
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/11/30 16:16:31 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :33 مانده معوق :0 مانده جريمه :0 شماره پيگيري:186660
+
+#375
+Type	: Incoming
+Date	: 2017-02-18 13:54:16
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/11/30 16:17:01 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :32 مانده معوق :333019 مانده جريمه :4202 شماره پيگيري:188120
+
+#376
+Type	: Incoming
+Date	: 2017-02-18 12:49:43
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1395/11/30 16:16:05 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :32 مانده معوق :245148 مانده جريمه :2893 شماره پيگيري:185194
+
+#377
+Type	: Incoming
+Date	: 2017-01-18 09:03:28
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1395/10/29 11:58:57 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :31 مانده معوق :228240 مانده جريمه :2655 شماره پيگيري:687262
+
+#378
+Type	: Incoming
+Date	: 2017-01-18 08:52:52
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/10/29 11:58:25 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :31 مانده معوق :319111 مانده جريمه :3996 شماره پيگيري:684448
+
+#379
+Type	: Incoming
+Date	: 2017-01-18 08:31:00
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/10/29 11:57:50 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :32 مانده معوق :0 مانده جريمه :0 شماره پيگيري:681250
+
+#380
+Type	: Incoming
+Date	: 2016-12-27 09:48:13
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/10/07 13:15:10 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :31 مانده معوق :0 مانده جريمه :0 شماره پيگيري:067861
+
+#381
+Type	: Incoming
+Date	: 2016-12-27 09:48:05
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1395/10/07 13:13:48 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :30 مانده معوق :211766 مانده جريمه :3247 شماره پيگيري:062545
+
+#382
+Type	: Incoming
+Date	: 2016-11-26 09:24:26
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/09/06 12:22:43 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :29 مانده معوق :281282 مانده جريمه :4782 شماره پيگيري:981979
+
+#383
+Type	: Incoming
+Date	: 2016-11-20 14:18:41
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/08/30 17:41:42 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :30 مانده معوق :0 مانده جريمه :0 شماره پيگيري:926647
+
+#384
+Type	: Incoming
+Date	: 2016-10-23 14:25:34
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1395/08/02 17:52:47 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :28 مانده معوق :159679 مانده جريمه :3459 شماره پيگيري:043083
+
+#385
+Type	: Incoming
+Date	: 2016-10-23 14:25:05
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/08/02 17:52:19 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :28 مانده معوق :257159 مانده جريمه :5679 شماره پيگيري:040947
+
+#386
+Type	: Incoming
+Date	: 2016-10-23 14:24:46
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1395/08/02 17:51:49 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :29 مانده معوق :0 مانده جريمه :0 شماره پيگيري:038168
+
+#387
+Type	: Incoming
+Date	: 2016-10-10 06:14:40
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1395/07/19 09:41:46 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :27 مانده معوق :2753494 مانده جريمه :39114 شماره پيگيري:488848
+
+#388
+Type	: Incoming
+Date	: 2016-10-10 06:14:11
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1395/07/19 09:41:18 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :28 مانده معوق :2370726 مانده جريمه :22030 شماره پيگيري:487160
+
+#389
+Type	: Incoming
+Date	: 2016-10-10 06:13:28
+Address	: +98500094
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/07/19 09:40:49 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :27 مانده معوق :2605300 مانده جريمه :38103 شماره پيگيري:485152
+
+#390
+Type	: Incoming
+Date	: 2016-08-23 10:16:48
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1395/06/02 14:38:34 از کارت:6280231450264758 به کارت:6280237064384585 تعداد اقساط پرداختي :27 مانده معوق :0 مانده جريمه :0 شماره پيگيري:394757
+
+#391
+Type	: Incoming
+Date	: 2016-08-23 10:04:34
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1395/06/02 14:36:29 از کارت:6280231450264758 به کارت:6280237064384296 تعداد اقساط پرداختي :26 مانده معوق :202705 مانده جريمه :2825 شماره پيگيري:389658
+
+#392
+Type	: Incoming
+Date	: 2016-07-21 23:02:29
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/04/31 18:37:23 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :25 مانده معوق :175852 مانده جريمه :2451 شماره پيگيري:011242
+
+#393
+Type	: Incoming
+Date	: 2016-07-21 22:24:46
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/04/31 18:40:18 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :25 مانده معوق :112831 مانده جريمه :1493 شماره پيگيري:021623
+
+#394
+Type	: Incoming
+Date	: 2016-07-21 22:21:11
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1395/04/31 18:39:45 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :26 مانده معوق :0 مانده جريمه :0 شماره پيگيري:019555
+
+#395
+Type	: Incoming
+Date	: 2016-06-19 16:01:09
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1395/03/30 20:31:36 از کارت:6280231450264758 به کارت:6280237064384585 تعداد اقساط پرداختي :25 مانده معوق :0 مانده جريمه :0 شماره پيگيري:893209
+
+#396
+Type	: Incoming
+Date	: 2016-06-19 15:59:07
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2390000ريال زمان:1395/03/30 20:30:50 از کارت:6280231450264758 به کارت:6280237064384296 تعداد اقساط پرداختي :24 مانده معوق :158866 مانده جريمه :2337 شماره پيگيري:889368
+
+#397
+Type	: Incoming
+Date	: 2016-06-19 15:58:22
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/03/30 20:29:59 از کارت:6280231450264758 به کارت:6280237064384411 تعداد اقساط پرداختي :24 مانده معوق :82347 مانده جريمه :1161 شماره پيگيري:886608
+
+#398
+Type	: Incoming
+Date	: 2016-06-19 15:56:29
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانك مسكن واريز 710110269754 مبلغ:7,500,000 زمان:1395/03/30-20:32 مانده:7,870,753 شرح:واريز بابت انتقال شتابي/خودپرداز
+
+#399
+Type	: Incoming
+Date	: 2016-05-18 12:39:27
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1395/02/29 17:11:17 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :23 مانده معوق :49646 مانده جريمه :578 شماره پيگيري:627871
+
+#400
+Type	: Incoming
+Date	: 2016-05-18 12:39:00
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1395/02/29 17:10:44 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :24 مانده معوق :0 مانده جريمه :0 شماره پيگيري:626084
+
+#401
+Type	: Incoming
+Date	: 2016-05-18 12:38:16
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/02/29 17:09:59 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :23 مانده معوق :130215 مانده جريمه :1610 شماره پيگيري:624121
+
+#402
+Type	: Incoming
+Date	: 2016-04-17 08:34:40
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/01/29 12:41:50 از کارت:6280231450264758 به کارت:6280237064384585 تعداد اقساط پرداختي :23 مانده معوق :0 مانده جريمه :0 شماره پيگيري:570161
+
+#403
+Type	: Incoming
+Date	: 2016-04-17 08:26:34
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/01/29 12:42:47 از کارت:6280231450264758 به کارت:6280237064384296 تعداد اقساط پرداختي :22 مانده معوق :116911 مانده جريمه :4213 شماره پيگيري:574719
+
+#404
+Type	: Incoming
+Date	: 2016-04-17 08:09:15
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1395/01/29 12:41:09 از کارت:6280231450264758 به کارت:6280237064384411 تعداد اقساط پرداختي :22 مانده معوق :82567 مانده جريمه :2980 شماره پيگيري:566951
+
+#405
+Type	: Incoming
+Date	: 2016-04-17 08:09:10
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانك مسكن برداشت 710110269754 مبلغ:2,640,000 زمان:1395/01/29-12:44 مانده:5,410,753 شرح:انتقال به تسهيلات از خودپرداز
+
+#406
+Type	: Incoming
+Date	: 2016-04-17 08:06:29
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانك مسكن واريز 710110269754 مبلغ:8,000,000 زمان:1395/01/29-12:41 مانده:8,050,753 شرح:واريز بابت انتقال شتابي/خودپرداز
+
+#407
+Type	: Incoming
+Date	: 2016-04-09 13:19:02
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1395/01/21 17:44:33 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :22 مانده معوق :2429537 مانده جريمه :46635 شماره پيگيري:191098
+
+#408
+Type	: Incoming
+Date	: 2016-04-09 13:18:48
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1395/01/21 17:43:52 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :21 مانده معوق :2433439 مانده جريمه :76516 شماره پيگيري:189188
+
+#409
+Type	: Incoming
+Date	: 2016-04-09 13:18:17
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1395/01/21 17:45:25 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :22 مانده معوق :2630605 مانده جريمه :82870 شماره پيگيري:193550
+
+#410
+Type	: Incoming
+Date	: 2016-04-02 09:24:05
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2500000ريال زمان:1395/01/14 10:28:54 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :21 مانده معوق :4760275 مانده جريمه :130557 شماره پيگيري:397970
+
+#411
+Type	: Incoming
+Date	: 2016-04-02 05:57:22
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1395/01/14 10:29:30 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :21 مانده معوق :5248147 مانده جريمه :144257 شماره پيگيري:399688
+
+#412
+Type	: Incoming
+Date	: 2016-04-02 05:56:17
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1395/01/14 10:28:14 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :21 مانده معوق :2457687 مانده جريمه :81748 شماره پيگيري:395744
+
+#413
+Type	: Incoming
+Date	: 2016-03-17 14:46:16
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2850000ريال زمان:1394/12/27 18:17:13 از کارت:6037997146015947 به کارت:6280237064384585 تعداد اقساط پرداختي :20 مانده معوق :5070771 مانده جريمه :129157 شماره پيگيري:536652
+
+#414
+Type	: Incoming
+Date	: 2016-03-17 14:45:12
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2850000ريال زمان:1394/12/27 18:16:09 از کارت:6037997146015947 به کارت:6280237064384411 تعداد اقساط پرداختي :20 مانده معوق :5239917 مانده جريمه :166846 شماره پيگيري:530531
+
+#415
+Type	: Incoming
+Date	: 2016-03-17 14:41:40
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2500000ريال زمان:1394/12/27 18:12:53 از کارت:6037997146015947 به کارت:6280237064384296 تعداد اقساط پرداختي :19 مانده معوق :4809539 مانده جريمه :151774 شماره پيگيري:509837
+
+#416
+Type	: Incoming
+Date	: 2016-01-21 17:28:47
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1394/11/01 21:00:58 از کارت:6280231450264758 به کارت:6280237064384585 تعداد اقساط پرداختي :19 مانده معوق :2607982 مانده جريمه :61075 شماره پيگيري:887933
+
+#417
+Type	: Incoming
+Date	: 2016-01-21 17:28:15
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1394/11/01 21:00:13 از کارت:6280231450264758 به کارت:6280237064384411 تعداد اقساط پرداختي :18 مانده معوق :2729970 مانده جريمه :80482 شماره پيگيري:885677
+
+#418
+Type	: Incoming
+Date	: 2016-01-21 17:27:51
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1394/11/01 20:59:29 از کارت:6280231450264758 به کارت:6280237064384296 تعداد اقساط پرداختي :18 مانده معوق :2465060 مانده جريمه :71808 شماره پيگيري:883659
+
+#419
+Type	: Incoming
+Date	: 2015-12-24 11:04:56
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2800000ريال زمان:1394/10/03 14:18:20 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :18 مانده معوق :2556800 مانده جريمه :58145 شماره پيگيري:862786
+
+#420
+Type	: Incoming
+Date	: 2015-12-24 11:03:09
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2500000ريال زمان:1394/10/03 14:17:35 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :17 مانده معوق :2413126 مانده جريمه :67888 شماره پيگيري:860960
+
+#421
+Type	: Incoming
+Date	: 2015-12-24 10:53:46
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2800000ريال زمان:1394/10/03 14:19:02 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :17 مانده معوق :2716650 مانده جريمه :77532 شماره پيگيري:864721
+
+#422
+Type	: Incoming
+Date	: 2015-11-21 15:51:28
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1394/08/30 19:23:35 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :16 مانده معوق :2802956 مانده جريمه :68623 شماره پيگيري:197094
+
+#423
+Type	: Incoming
+Date	: 2015-11-21 15:50:36
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1394/08/30 19:22:52 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :16 مانده معوق :2673541 مانده جريمه :51308 شماره پيگيري:193822
+
+#424
+Type	: Incoming
+Date	: 2015-11-21 15:49:53
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2400000ريال زمان:1394/08/30 19:22:10 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :16 مانده معوق :2460719 مانده جريمه :59382 شماره پيگيري:191082
+
+#425
+Type	: Incoming
+Date	: 2015-08-19 13:25:23
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1394/05/28 12:02:14 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :14 مانده معوق :65021 مانده جريمه :680 شماره پيگيري:983493
+
+#426
+Type	: Incoming
+Date	: 2015-08-19 07:29:02
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2420000ريال زمان:1394/05/28 12:01:33 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :14 مانده معوق :1442 مانده جريمه :14 شماره پيگيري:979385
+
+#427
+Type	: Incoming
+Date	: 2015-08-19 07:28:12
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2700000ريال زمان:1394/05/28 12:00:45 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :15 مانده معوق :0 مانده جريمه :0 شماره پيگيري:975228
+
+#428
+Type	: Incoming
+Date	: 2015-07-21 13:10:37
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2420000ريال زمان:1394/04/30 17:43:12 از کارت:6037997146015947 به کارت:6280237064384296 تعداد اقساط پرداختي :13 مانده معوق :13747 مانده جريمه :153 شماره پيگيري:701051
+
+#429
+Type	: Incoming
+Date	: 2015-07-21 13:09:47
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1394/04/30 17:42:18 از کارت:6037997146015947 به کارت:6280237064384585 تعداد اقساط پرداختي :13 مانده معوق :58227 مانده جريمه :448 شماره پيگيري:698493
+
+#430
+Type	: Incoming
+Date	: 2015-06-17 07:15:48
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2520000ريال زمان:1394/03/27 10:26:56 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :12 مانده معوق :23140 مانده جريمه :244 شماره پيگيري:886640
+
+#431
+Type	: Incoming
+Date	: 2015-06-17 07:14:29
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1394/03/27 10:26:11 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :12 مانده معوق :94639 مانده جريمه :925 شماره پيگيري:882142
+
+#432
+Type	: Incoming
+Date	: 2015-06-17 07:13:15
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1394/03/27 10:25:22 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :12 مانده معوق :66982 مانده جريمه :408 شماره پيگيري:877633
+
+#433
+Type	: Incoming
+Date	: 2015-05-21 11:55:47
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:3710000ريال زمان:1394/02/31 16:28:19 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :11 مانده معوق :132832 مانده جريمه :2544 شماره پيگيري:613164
+
+#434
+Type	: Incoming
+Date	: 2015-05-21 11:50:00
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2650000ريال زمان:1394/02/31 16:22:40 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :11 مانده معوق :60053 مانده جريمه :493 شماره پيگيري:602372
+
+#435
+Type	: Incoming
+Date	: 2015-05-21 11:49:29
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2660000ريال زمان:1394/02/31 16:21:55 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :11 مانده معوق :82983 مانده جريمه :1014 شماره پيگيري:601024
+
+#436
+Type	: Incoming
+Date	: 2015-04-23 08:23:09
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2620000ريال زمان:1394/02/03 12:29:37 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :10 مانده معوق :74864 مانده جريمه :1589 شماره پيگيري:066379
+
+#437
+Type	: Incoming
+Date	: 2015-04-23 08:16:15
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:1450000ريال زمان:1394/02/03 12:27:38 از کارت:6037991802963425 به کارت:6280237064384296 تعداد اقساط پرداختي :10 مانده معوق :1389113 مانده جريمه :22447 شماره پيگيري:058161
+
+#438
+Type	: Incoming
+Date	: 2015-04-22 13:50:15
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2630000ريال زمان:1394/02/02 18:23:12 از کارت:6037991802963425 به کارت:6280237064384585 تعداد اقساط پرداختي :10 مانده معوق :67455 مانده جريمه :616 شماره پيگيري:983243
+
+#439
+Type	: Incoming
+Date	: 2015-04-22 13:49:46
+Address	: +9850004920
+Status	: NOT_RECEIVED
+Message	: بانک مسکن واريز قسط به مبلغ:2640000ريال زمان:1394/02/02 18:22:27 از کارت:6037991802963425 به کارت:6280237064384411 تعداد اقساط پرداختي :9 مانده معوق :2640415 مانده جريمه :54518 شماره پيگيري:980736
+

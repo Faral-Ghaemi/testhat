@@ -33,6 +33,8 @@ ALLOWED_HOSTS = [
 # Application definition
 
 INSTALLED_APPS = [
+	'leaflet',
+	'djgeojson',
     'RAT.apps.RatConfig',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -121,3 +123,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+LEAFLET_CONFIG = {
+    'DEFAULT_CENTER': (32.612773, 53.854980),
+	'DEFAULT_ZOOM': 6,
+	'MIN_ZOOM': 3,
+	'MAX_ZOOM': 18,
+}

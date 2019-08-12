@@ -1,0 +1,40 @@
+root@RatHat:~/django# /root/django/pupy/pupy/pupysh.py -l ssl 185.120.221.217:66
+77
+webcamsnap -d 1 -o /root/django/users/test/pupy/img1.jpg
+webcamsnap -d 2 -o /root/django/users/test/pupy/img2.jpg
+
+            _____                    _       _ _
+ ___ ___   |  _  |_ _ ___ _ _    ___| |_ ___| | |   ___ ___
+|___|___|  |   __| | | . | | |  |_ -|   | -_| | |  |___|___|
+           |__|  |___|  _|_  |  |___|_|_|___|_|_|
+                     |_| |___|
+
+                   v1.8 (Aug 2018)
+
+
+  Upstream: https://github.com/n1nj4sec/pupy
+
+  The usage of this software to access any system,
+  service, or network without the owner's consent is
+  expressly forbidden.
+
+  Please follow https://www.eccouncil.org/code-of-ethics/
+
+  Good luck!
+
+[*] IGDClient enabled
+[*] WebServer started (0.0.0.0:9000, webroot=/vC18ZZYhoN)
+[*] Listen: ssl: 185.120.221.217:6677
+>> webcamsnap -d 1 -o /root/django/users/test/pupy/img1.jpg
+[-] Unknown (or unavailable) command webcamsnap. Use help -M to list available c
+ommands and modules
+>> webcamsnap -d 2 -o /root/django/users/test/pupy/img2.jpg
+[-] Unknown (or unavailable) command webcamsnap. Use help -M to list available c
+ommands and modules
+>> webcamsnap -d 1 -o /root/django/users/test/pupy/img1.jpg
+[-] Unknown (or unavailable) command webcamsnap. Use help -M to list available c
+ommands and modules
+>> webcamsnap -d 2 -o /root/django/users/test/pupy/img2.jpg
+[-] Unknown (or unavailable) command webcamsnap. Use help -M to list available c
+ommands and modules
+>>

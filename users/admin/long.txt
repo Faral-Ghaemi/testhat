@@ -1,0 +1,32 @@
+
+[*] No call log entries were found!
+[*] Activity MainActivity was hidden
+[-] android_geolocate: Operation failed: 1
+[*] Done
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] Error running command play: Errno::EISDIR Is a directory @ io_fread - .
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1
+[-] android_geolocate: Operation failed: 1

